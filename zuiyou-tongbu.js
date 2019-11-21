@@ -1,0 +1,123 @@
+var b = {
+  "data": [
+    {
+      "items": [
+        {
+          "type": "",
+          "body": {
+            "video": {
+              "videoUrl": "",
+              "duration": "",
+              "height": "",
+              "width": "",
+              "cover": ""
+            },
+            "image": {
+              "imageUrl": "",
+              "type": "",
+              "height": "",
+              "width": ""
+            },
+            "link": {
+              "originUrl": "",
+              "imageUrl": "",
+              "title": ""
+            },
+            "text": {
+              "content": ""
+            },
+            "forward": {
+              "type": "",
+              "body": {},
+              "mid": "",
+              "userInfo": {
+                "uid": "",
+                "headId": "",
+                "name": ""
+              },
+              "url": ""
+            }
+          }
+        }
+      ],
+      "mid": "",
+      "uid": "",
+      "publishTime": 1,
+      "url": "" 
+    }
+  ],
+  "planId": "",
+  "taskId": "",
+  "rssId": "",
+  "category": "",
+  "tag": ""
+}
+new Promise((resolve, reject) => {
+  try{
+    // 解析视频
+    function parseVideo(item){
+      var video = {}
+      if(item.videos){
+        var videoObj = Object.values(item.videos)[0]
+        video.src = videoObj.url
+      }
+      return video
+    }
+    // 解析图片
+    function parsePics(item){
+      var pics = []
+      if(item.imgs){
+        item.imgs.forEach((ele)=>{
+          if(ele.video === 0){
+            console.log(ele);
+            pics.push(ele.urls.origin.urls[0])
+          }
+        })
+      }
+      return pics
+    }
+    console.log('start');
+    //1.创建AJAX对象
+    var ajax = new XMLHttpRequest();
+    ajax.onreadystatechange = function(){
+      if(ajax.readyState == 4 && ajax.status == 200){
+        var msg = ajax.responseText;
+        console.log(msg);
+        var list = JSON.parse(msg).data.list
+        var moments = []
+        for(var i in list){
+          var moment = {};
+          moment.mid = String(list[i].id)
+          moment.uid = list[i].member.id
+          moment.publishTime = list[i].ct*1000
+          moment.text = {content:list[i].content}
+          moment.video = parseVideo(list[i])
+          moment.pics = parsePics(list[i])
+          moments.push(moment); 
+        }
+        console.log(moments);
+        resolve(moments);
+      }
+    }
+    
+    //2.创建http请求,并设置请求地址
+    ajax.open('post','https://share.izuiyou.com/api/topic/details');
+    //post方式传递数据是模仿form表单传递给服务器的,要设置header头协议
+    ajax.setRequestHeader("content-type","application/json; charset=utf-8");
+
+    //3.发送请求(get--null    post--数据)
+    var info = {
+      "h_av": "3.0",
+      "h_dt": 9,
+      "h_nt": 9,
+      "h_ch": "web_app",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36",
+      "tid": ~~location.href.split('/').slice(-1)[0]
+    }
+    
+    ajax.send(JSON.stringify(info));
+  }catch(e){
+    console.error("解析异常, e: ", e);              
+    reject(e);
+  }
+});
