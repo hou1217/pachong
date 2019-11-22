@@ -1,0 +1,2291 @@
+{
+  "initialState": {
+    "common": {
+      "ask": {}
+    },
+    "loading": {
+      "global": {
+        "count": 0
+      },
+      "local": {
+        "topic/get/19575422": false,
+        "topic/getHot/19575422": false
+      }
+    },
+    "entities": {
+      "users": {},
+      "questions": {},
+      "answers": {
+        "904280139": {
+          "excerpt": "安能以身之察察，受物之汶汶者乎？宁赴湘流，葬于江鱼之腹中。安能以皓皓之白，而蒙世俗之尘埃乎？——《楚辞章句·渔父》",
+          "createdTime": 1574347804,
+          "id": 904280139,
+          "voteupCount": 5,
+          "isLabeled": false,
+          "author": {
+            "avatarUrlTemplate": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+            "badge": [],
+            "name": "知乎用户",
+            "eduMemberTag": {
+              "type": "default",
+              "memberTag": ""
+            },
+            "headline": "",
+            "gender": 1,
+            "userType": "people",
+            "isAdvertiser": false,
+            "avatarUrl": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+            "url": "http://www.zhihu.com/api/v4/people/0",
+            "type": "people",
+            "urlToken": "",
+            "id": "0210abfed3e83bd64348bf5ceab32244",
+            "isOrg": false
+          },
+          "url": "http://www.zhihu.com/api/v4/answers/904280139",
+          "question": {
+            "title": "《海上钢琴师》中1900最后不愿意下船的深层原因是什么？",
+            "url": "http://www.zhihu.com/api/v4/questions/356215035",
+            "created": 1573923338,
+            "questionType": "normal",
+            "isFollowing": false,
+            "type": "question",
+            "id": 356215035
+          },
+          "updatedTime": 1574347829,
+          "content": "<blockquote>安能以身之察察，而受物之汶汶者乎？宁赴湘流，葬于江鱼之腹中。安能以皓皓之白，而蒙世俗之尘埃乎？</blockquote><p>——《楚辞章句·渔父》</p>",
+          "commentCount": 1,
+          "topicThumbnails": [],
+          "type": "answer",
+          "thumbnail": ""
+        },
+        "904478834": {
+          "excerpt": "凌晨赶去看的首映场，心情有点复杂。<b>一方面，</b>尽管画面依旧唯美，特效依旧夺目，但缺少了「Let It Go」的惊艳，故事相对平淡，想要表达的内容太多。作为半个粉丝，很遗憾可以预见这部电影的口碑显然是达不到前作的高度了。<b>另一方面，</b>当Alsa在冰上起舞，当歌…",
+          "createdTime": 1574367271,
+          "id": 904478834,
+          "voteupCount": 13,
+          "isLabeled": false,
+          "author": {
+            "avatarUrlTemplate": "https://pic4.zhimg.com/50/da8e974dc_{size}.jpg",
+            "badge": [],
+            "name": "知乎用户",
+            "eduMemberTag": {
+              "type": "default",
+              "memberTag": ""
+            },
+            "headline": "",
+            "gender": 1,
+            "userType": "people",
+            "isAdvertiser": false,
+            "avatarUrl": "https://pic4.zhimg.com/50/da8e974dc_is.jpg",
+            "url": "http://www.zhihu.com/api/v4/people/0",
+            "type": "people",
+            "urlToken": "",
+            "id": "1a40ca2d74a4e7c1620fec3739b57512",
+            "isOrg": false
+          },
+          "url": "http://www.zhihu.com/api/v4/answers/904478834",
+          "question": {
+            "title": "如何评价迪斯尼电影《冰雪奇缘2》（Frozen2）？",
+            "url": "http://www.zhihu.com/api/v4/questions/265919258",
+            "created": 1516499240,
+            "questionType": "normal",
+            "isFollowing": false,
+            "type": "question",
+            "id": 265919258
+          },
+          "updatedTime": 1574393167,
+          "content": "<p>凌晨赶去看的首映场，心情有点复杂。</p><p><b>一方面，</b>画面依旧唯美，特效依旧夺目，歌曲依旧好听。但「Let It Go」的惊艳显然是很难复制，故事相对平淡，叙事比较复杂。作为半个粉丝，很遗憾这部电影的口碑显然是达不到前作的高度了。</p><p><b>另一方面，</b>当Elsa在冰上起舞，当歌声响起，似乎已经模糊的记忆不断被唤醒。静下心来好好体会一些故事里的精巧设计，千人千面，总能够感受到一些能获得共鸣的，关于成长、关于自我的循循善诱。</p><p>但从我个人来看，还是非常喜欢这部电影的。</p><p>如果你期待值超高，期待更上头的「Let It Go」二代，建议就不要去电影院看这部电影了。但如果你是前作的粉丝，想要体验全新升级的动画特效，想看雪宝继续卖萌耍宝，想看<b>两姐妹继续撒糖</b>，如果你要带着小朋友看电影，那这部电影就一定不要错过了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-c1a9038853714eb98c25a80b50259edc_b.jpg\" data-rawwidth=\"1920\" data-rawheight=\"804\" data-size=\"normal\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-697ae165d6434ee2da26ba7be04b35b3_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic1.zhimg.com/v2-c1a9038853714eb98c25a80b50259edc_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1920'%20height='804'&gt;&lt;/svg&gt;\" data-rawwidth=\"1920\" data-rawheight=\"804\" data-size=\"normal\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-697ae165d6434ee2da26ba7be04b35b3_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1920\" data-original=\"https://pic1.zhimg.com/v2-c1a9038853714eb98c25a80b50259edc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-c1a9038853714eb98c25a80b50259edc_b.jpg\"><figcaption>「绝美女王分界线，以下内容剧透」</figcaption></figure><p>如果说前作的主题是寻找，那在这部作品就是借由寻找来<b>讲述成长的真相</b>：</p><blockquote>片头摇篮曲All Is Found：北风与海的交际，有一条充满回忆的河流</blockquote><p>明面上的故事线在于寻找真相，寻找父母亲踪迹，寻找自然之灵生气的缘由。</p><p>而暗里则及讲述了四个主角成长故事线，四个主角都有自己当下最关心的事情，就好像四种元素的特性迥乎不同，去尽可能完整的讲述成长。</p><p><br></p><blockquote>Elsa - Into The Unknown：你总是让我不得安宁 | 还是说其实你有一点点像我 | 内心深处很明白，我不应该在这里</blockquote><p>Elsa的成长不仅仅是坚毅，是放下束缚，直面最真实的自己。她背负了国家的责任，背负着对父母的歉疚，背负着强大的魔力。为了这些她选择独自一人去承受未知的风险，在巨浪滔天前一次次被打倒，然后又一次次踏浪前行。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/50/v2-e4a0662ca1311849dbab6c99b0973ab1_b.gif\" data-rawwidth=\"1258\" data-rawheight=\"469\" data-size=\"normal\" data-caption=\"\" data-thumbnail=\"https://pic2.zhimg.com/50/v2-e4a0662ca1311849dbab6c99b0973ab1_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1258\" data-original=\"https://pic2.zhimg.com/v2-e4a0662ca1311849dbab6c99b0973ab1_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1258'%20height='469'&gt;&lt;/svg&gt;\" data-rawwidth=\"1258\" data-rawheight=\"469\" data-size=\"normal\" data-caption=\"\" data-thumbnail=\"https://pic2.zhimg.com/50/v2-e4a0662ca1311849dbab6c99b0973ab1_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1258\" data-original=\"https://pic2.zhimg.com/v2-e4a0662ca1311849dbab6c99b0973ab1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/50/v2-e4a0662ca1311849dbab6c99b0973ab1_b.gif\"></figure><blockquote>Elsa - Show Yourself：我从未如此笃定 | 让我看见真实的你</blockquote><p>当她走进冰封长河，重温过去的记忆，发现自己的情感，<b>呼唤她的声音，就是她自己。</b>她压抑太久，她应该听见她自己的声音。</p><p><br></p><blockquote>Anna - The Next Right Thing：只有黑暗，我想要屈服，悲伤拖着我下沉。</blockquote><p>Anna的成长，是承担责任，并做正确的事。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-770be8ad3529278484de99dcbd21705f_b.gif\" data-rawwidth=\"1258\" data-rawheight=\"493\" data-size=\"normal\" data-caption=\"\" data-thumbnail=\"https://pic4.zhimg.com/50/v2-770be8ad3529278484de99dcbd21705f_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1258\" data-original=\"https://pic4.zhimg.com/v2-770be8ad3529278484de99dcbd21705f_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1258'%20height='493'&gt;&lt;/svg&gt;\" data-rawwidth=\"1258\" data-rawheight=\"493\" data-size=\"normal\" data-caption=\"\" data-thumbnail=\"https://pic4.zhimg.com/50/v2-770be8ad3529278484de99dcbd21705f_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1258\" data-original=\"https://pic4.zhimg.com/v2-770be8ad3529278484de99dcbd21705f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-770be8ad3529278484de99dcbd21705f_b.gif\"></figure><p>她没有力量，所以当被伙伴留在黑暗的洞穴底部，她会蹲在角落不知所措。</p><p>所以当伙伴都与她走散，她会觉得自己被世界抛弃，但她不能辜负她的姐姐“唯一一颗为她指路的星星”。她要承担起姐姐过去一直背着的责任，修复过往的错误，直面恐怖大地巨人，纵身一跃跨过深渊。</p><p><br></p><blockquote>Olaf - When I Am Older：成长的过程就是适应的过程 | 等我更加成熟，我就不会惴惴不安 | 当你年纪大一点，肯定什么都会想明白。</blockquote><p>Olaf（雪宝）的成长，是对世界的认知。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/50/v2-3d053ec83b7be57fa649c62c4e327cfd_b.gif\" data-rawwidth=\"1258\" data-rawheight=\"493\" data-size=\"normal\" data-caption=\"\" data-thumbnail=\"https://pic2.zhimg.com/50/v2-3d053ec83b7be57fa649c62c4e327cfd_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1258\" data-original=\"https://pic2.zhimg.com/v2-3d053ec83b7be57fa649c62c4e327cfd_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1258'%20height='493'&gt;&lt;/svg&gt;\" data-rawwidth=\"1258\" data-rawheight=\"493\" data-size=\"normal\" data-caption=\"\" data-thumbnail=\"https://pic2.zhimg.com/50/v2-3d053ec83b7be57fa649c62c4e327cfd_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1258\" data-original=\"https://pic2.zhimg.com/v2-3d053ec83b7be57fa649c62c4e327cfd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/50/v2-3d053ec83b7be57fa649c62c4e327cfd_b.gif\"></figure><p>作为冰雪的化身，他就好像小孩一般懵懂，他对世界的认知来自于他身边的人和事。</p><p>他看见了很多东西，所以他会困惑，他会和北境的小孩探讨“你们如何看待随着成长而思想日益复杂这个问题”，也会吐槽“谁会懂男人那一套”。</p><p>但他从未丢失过感受爱的能力，他会因为Elsa的一意孤行而感受到愤怒，会在消散之际去接受“温暖的拥抱”，温暖嘱托Anna要独自前行。</p><p><br></p><blockquote>Kristoff - Lost in the Woods：你是我唯一的指路标识，我迷失在密林深处，不知道你是否还牵挂着我</blockquote><p>Kristoff 的成长，是直面爱。面对自己最珍视的人，总是不知所措，把握不到正确的时间节点，不知道正确的去表达自己的情感，驯鹿老父亲都为他着急。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-cf97b14864ebba759db5621423107997_b.gif\" data-rawwidth=\"1258\" data-rawheight=\"493\" data-size=\"normal\" data-caption=\"\" data-thumbnail=\"https://pic4.zhimg.com/50/v2-cf97b14864ebba759db5621423107997_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1258\" data-original=\"https://pic4.zhimg.com/v2-cf97b14864ebba759db5621423107997_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1258'%20height='493'&gt;&lt;/svg&gt;\" data-rawwidth=\"1258\" data-rawheight=\"493\" data-size=\"normal\" data-caption=\"\" data-thumbnail=\"https://pic4.zhimg.com/50/v2-cf97b14864ebba759db5621423107997_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1258\" data-original=\"https://pic4.zhimg.com/v2-cf97b14864ebba759db5621423107997_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-cf97b14864ebba759db5621423107997_b.gif\"></figure><blockquote>Kristoff - Get This Right：我只想让你开心 | 我会全心全意爱你</blockquote><p>直到他在迷路的森林里再次看到自己的方向，抓住自己爱的人，便不会放手。</p><p><br></p><p>成长绝不是一帆风顺的过程中，总会有些东西不是我们想要见到的，就好像片中的台词“为什么摇篮曲里总有几句可怕的歌词“。</p><p>迷雾森林好比围城，大坝好比筑起的墙，真相是残酷的，幸运的是水是有记忆的，记忆里有我们想要拥抱的情感，和我们想要成为的人。</p><p>有些北境少年“从未见过晴朗的天空”。残酷的真相并不代表着无动于衷，我们总是要适应环境，并且成长的，就好像我们会跟随两姐妹去体验故事的结局。</p><p><b>“别把幸福视为当然，不要放弃，一步一步往前走，做眼前该做的事”</b>。</p><p><br></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/50/v2-7d4686bba276f8ed84c45a1756cb3b56_b.jpg\" data-rawwidth=\"720\" data-rawheight=\"405\" data-size=\"normal\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-05cbf64bdd8c200b516a4a682974f1ec_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic2.zhimg.com/v2-7d4686bba276f8ed84c45a1756cb3b56_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='720'%20height='405'&gt;&lt;/svg&gt;\" data-rawwidth=\"720\" data-rawheight=\"405\" data-size=\"normal\" data-default-watermark-src=\"https://pic3.zhimg.com/50/v2-05cbf64bdd8c200b516a4a682974f1ec_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"720\" data-original=\"https://pic2.zhimg.com/v2-7d4686bba276f8ed84c45a1756cb3b56_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/50/v2-7d4686bba276f8ed84c45a1756cb3b56_b.jpg\"><figcaption>接下来说点轻松点的</figcaption></figure><p><b>不能忘记雪宝Olaf和最没存在感的男主角兼电灯泡Kristoff的高光时刻：</b></p><p>无论是雪宝的官方吐槽版一分钟魔幻回顾上一部的故事。</p><p>还是求不动婚少年为爱走天涯在森林里大唱80年代苦情歌。</p><p>全片笑点几乎来自于以上两位少年。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/50/v2-a3a78fa6baa790caabe1bbf751a5194a_b.jpg\" data-rawwidth=\"1920\" data-rawheight=\"800\" data-size=\"normal\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-b4d25b81d1568ab224738bfdd453697e_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic2.zhimg.com/v2-a3a78fa6baa790caabe1bbf751a5194a_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1920'%20height='800'&gt;&lt;/svg&gt;\" data-rawwidth=\"1920\" data-rawheight=\"800\" data-size=\"normal\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-b4d25b81d1568ab224738bfdd453697e_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1920\" data-original=\"https://pic2.zhimg.com/v2-a3a78fa6baa790caabe1bbf751a5194a_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/50/v2-a3a78fa6baa790caabe1bbf751a5194a_b.jpg\"><figcaption>冰雪奇缘官方CP认证</figcaption></figure><p><b>不能忽略霸道总裁Anna和冰雪女王Elsa的101句爱的箴言：</b></p><ul><li>出发前：You Always Have Me.</li><li>迷雾森林前：答应我，我们一起共进退</li><li>火灵调皮时：如果你不想我冲进火里，你就不要自己冲进火里</li><li>沉船外：我无比相信你，我不想阻止你成为你想成为的人，让我帮你分担，我不能失去你</li><li>...</li></ul><p>欢迎继续补充。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-d241c1b004aac79e112d87bbdab2eb2d_b.gif\" data-rawwidth=\"1258\" data-rawheight=\"493\" data-size=\"normal\" data-caption=\"\" data-thumbnail=\"https://pic1.zhimg.com/50/v2-d241c1b004aac79e112d87bbdab2eb2d_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1258\" data-original=\"https://pic1.zhimg.com/v2-d241c1b004aac79e112d87bbdab2eb2d_r.jpg\"></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1258'%20height='493'&gt;&lt;/svg&gt;\" data-rawwidth=\"1258\" data-rawheight=\"493\" data-size=\"normal\" data-caption=\"\" data-thumbnail=\"https://pic1.zhimg.com/50/v2-d241c1b004aac79e112d87bbdab2eb2d_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1258\" data-original=\"https://pic1.zhimg.com/v2-d241c1b004aac79e112d87bbdab2eb2d_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-d241c1b004aac79e112d87bbdab2eb2d_b.gif\"></figure><p>不提迪士尼的电影制作工艺也是不可能的：</p><p>迪士尼电影特效又达到了一个新的高度，无论是原画的唯美，各种高难度比如挥洒星空特效的出现仿佛再跟你说迪士尼有的是钱。在一部动画电影里的把场景渲染的几乎接近真实场景，无论纹理光线渲染都极其真实。建议各位留意一下海水、浪花以及沉船场景。</p><p>音效经过了精心设定，在不同的场景里有心去听的话，能够非常清晰的感知什么时候环境音发挥了重要作用，对话等场景主要是前方的音箱在工作。因此建议选择音效较好的播放厅，歌曲体验更佳。</p><hr><p>早上起来看了一下外网和豆瓣的评论，果然有很多质疑的声音。Let it Go的声浪太强，在前作珠玉在前的基础上，被寄予厚望的续作选择平和叙事的时候就注定了很难满足所有观众的愿望。</p><p>本片已经非常克制的沿袭前作，孩子们能够看到炫酷的冰雪世界，成人们也能够看到更多东西。有很多精巧的设计需要细细品味，就比如四种元素是否暗合了四个主人公的成长。还有共情的片断需要用心的去感受感知。</p><p>正如影片中有意无意想要表达的一样，我们总要听从自己的声音。</p><p>Let It Go，Into The Unknown，期待冰雪世界里，下一次成长。</p>",
+          "commentCount": 3,
+          "topicThumbnails": [
+            "https://pic2.zhimg.com/80/v2-19e96e3fa4ca96f6ada0d6f650694dce_250x0.jpg",
+            "https://pic4.zhimg.com/80/v2-e1f0394105681c46aea04d167d4241f5_250x0.jpg",
+            "https://pic2.zhimg.com/80/v2-58d430b3c7ede3db5ea2eacfa770c72d_250x0.jpg"
+          ],
+          "type": "answer",
+          "thumbnail": "https://pic2.zhimg.com/v2-19e96e3fa4ca96f6ada0d6f650694dce_200x112.jpg"
+        }
+      },
+      "articles": {
+        "91839598": {
+          "updated": 1573821893,
+          "isLabeled": false,
+          "excerpt": "观看<b>《小丑》</b>是一次难忘而特别的观影体验。原因很简单：1、《小丑》是新一届的威尼斯金狮奖作品，这是世界电影所能获得的最高荣誉之一，关键它还是DC出品的，本届影迷观影之前很好奇；2、我很喜欢<b>《蝙蝠侠·黑暗骑士》</b>中<b>希斯莱杰</b>诠释的小丑形象；爱屋及乌，…",
+          "excerptTitle": "",
+          "id": 91839598,
+          "voteupCount": 7171,
+          "author": {
+            "avatarUrlTemplate": "https://pic3.zhimg.com/50/v2-29497fe0028498d01caf00ef4931aa86_{size}.jpg",
+            "badge": [
+              {
+                "topics": [
+                  {
+                    "category": "n_wiki_zhihu",
+                    "isBlack": false,
+                    "name": "电影",
+                    "url": "http://www.zhihu.com/api/v4/topics/19550429",
+                    "excerpt": "电影，是由活动照相术和幻灯放映术结合发展起来的一种连续的影像画面，是一门视觉和听觉的现代艺术，也是一门可以容纳戏剧、摄影、绘画、音乐、舞蹈、文字、雕塑、建筑等多种艺术的现代科技与艺术的综合体。但它又具有独自的特征，电影在艺术表现力上不但具有其它各种艺术的特征，又因可以运用蒙太奇（法语：Montage）这种艺术性突跃的电影组接技巧，具有超越其它一切艺术的表现手段，而且影片可以大量复制放映，随着现代社会的…",
+                    "isVote": false,
+                    "introduction": "电影，是由活动照相术和幻灯放映术结合发展起来的一种连续的影像画面，是一门视觉和听觉的现代艺术，也是一门可以容纳戏剧、摄影、绘画、音乐、舞蹈、文字、雕塑、建筑等多种艺术的现代科技与艺术的综合体。但它又具有独自的特征，电影在艺术表现力上不但具有其它各种艺术的特征，又因可以运用蒙太奇（法语：Montage）这种艺术性突跃的电影组接技巧，具有超越其它一切艺术的表现手段，而且影片可以大量复制放映，随着现代社会的发展，电影已深入到人类社会生活的方方面面，是人们日常生活不可或缺的一部分。国务院法制办于2018年2月2日—22日就《电影行政处罚裁量办法（征求意见稿）》向社会公开征求意见。",
+                    "avatarUrl": "https://pic3.zhimg.com/50/7d8c15df29ce6900c80f9cf630992687_qhd.jpg",
+                    "type": "topic",
+                    "id": "19550429"
+                  }
+                ],
+                "type": "best_answerer",
+                "description": "优秀回答者"
+              }
+            ],
+            "name": "宋雯婷",
+            "eduMemberTag": {
+              "type": "default",
+              "memberTag": ""
+            },
+            "headline": "我愿逆流而上。公众号：宋雯婷；微博：宋雯婷sweety。",
+            "gender": 0,
+            "userType": "people",
+            "isAdvertiser": false,
+            "avatarUrl": "https://pic3.zhimg.com/50/v2-29497fe0028498d01caf00ef4931aa86_is.jpg",
+            "url": "http://www.zhihu.com/api/v4/people/1ec3eaaea0e055bee3278fe5b8209ab2",
+            "type": "people",
+            "urlToken": "minilily",
+            "id": "1ec3eaaea0e055bee3278fe5b8209ab2",
+            "isOrg": false
+          },
+          "url": "http://zhuanlan.zhihu.com/p/91839598",
+          "title": "《小丑》豆瓣9.0，这届文青的韭菜真好割",
+          "created": 1573729202,
+          "content": "<p>观看<b>《小丑》</b>是一次难忘而特别的观影体验。原因很简单：</p><p>1、《小丑》是新一届的威尼斯金狮奖作品，这是世界电影所能获得的最高荣誉之一，关键它还是DC出品的，本届影迷观影之前很好奇；</p><p>2、我很喜欢<b>《蝙蝠侠·黑暗骑士》</b>中<b>希斯莱杰</b>诠释的小丑形象；爱屋及乌，本届影迷观影之前还很期待；</p><p>3、在观看《小丑》的过程中，导演带给带来了一次又一次艺术和三观上的暴击，本影迷左思右想之后，做出了一个不与主流意见一致的个人判断。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-4225cc787297d485d9fc673534336c91_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-4225cc787297d485d9fc673534336c91_r.jpg\"/></figure><p>《蝙蝠侠·黑暗骑士》希斯·莱杰 饰 小丑</p><p>因为讨论《小丑》是一件比较严肃的事情，所以我也不多说废话，直接进入主题。</p><p>我的评分：一星（五星制），理由如下：</p><p><b>1、小丑人物塑造失败；</b></p><p><b>2、故事逻辑牵强；</b></p><p><b>3、创作精神和创作动机险恶。</b></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-636620dcfebf213392096a50bbece8b5_b.jpg\" data-size=\"normal\" data-rawwidth=\"770\" data-rawheight=\"345\" class=\"origin_image zh-lightbox-thumb\" width=\"770\" data-original=\"https://pic2.zhimg.com/v2-636620dcfebf213392096a50bbece8b5_r.jpg\"/><figcaption>《小丑》豆瓣9.0</figcaption></figure><p>为什么这么说？以下是论述部分。要讨论《小丑》究竟是一个什么样的电影，最重要的是要回答一个问题，即：</p><p><b>小丑，是一个什么样的人？</b></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-8c00b2ef4ef42cde44d981f852731a10_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"608\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-8c00b2ef4ef42cde44d981f852731a10_r.jpg\"/></figure><p>为了让大家更直观地思考这个问题，我把围绕小丑故事中的相关词，列举了一些出来，做了一张简图。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-6f978822bf989b0393fea0d15d7efb2f_b.jpg\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"511\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-6f978822bf989b0393fea0d15d7efb2f_r.jpg\"/><figcaption>《小丑》人物相关词</figcaption></figure><p>就着这些关键词，我来提取几个，尝试解剖一下小丑这个人物。</p><h2><b>「笑」</b></h2><p>电影中，导演给亚瑟的笑赋予了很多很重要的内涵。这个内涵具体是：</p><p><b>1、生理上，这是一种疾病；</b></p><p><b>2、电影层面，它有利于情节推动；</b>这种推动一个是辅助说明亚瑟的理想是做一个喜剧演员，「笑」可以作为他的喜剧理想的一个注脚；</p><p>另外一个是，小丑多次触怒旁人都是因为他的笑，这甚至直接导致了地铁杀人案件，直接促成了亚瑟的性格转变。</p><p><b>3、艺术隐喻上，「笑」也方便创作者去对亚瑟经受的苦难做出「讽刺」效果；</b></p><p>（自认为）受尽人间疾苦的亚瑟，不断地狂笑，有益于影片压抑情绪的累积，并且在心理上给观众造成一种逆向的思维暗示，触发观众代入自身情感，达到心理高潮。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-b101be04241c33d1a2fb6fa81ce66a85_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"344\" data-thumbnail=\"https://pic2.zhimg.com/v2-b101be04241c33d1a2fb6fa81ce66a85_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-b101be04241c33d1a2fb6fa81ce66a85_r.jpg\"/></figure><p>可以说，用小丑形象中外化的「笑脸」这样一个已知条件，去作为故事推进的一个抓手，原本是非常聪明也很巧妙的做法。</p><p>但是，《小丑》这个作品，最大的败笔之一，也是在这里——</p><p><b>在影片呈现中，导演并没有很好地把小丑形象上外化的笑脸，内化成亚瑟这个人物的性格。相反，导演对于小丑的「笑」的使用，极为粗暴。</b></p><p>（真正看得懂的小丑粉，甚至会因为这种粗暴的处理而愤怒，因为看懂了就会明白，导演实际上是根本不尊重小丑的。）</p><p>粗暴何在？</p><p>答：</p><p><b>1、对于「笑病」这样一种原创性疾病，导演并没有在科学层面进行清晰的病因、病理、病症的解释；</b></p><p>我相信我这么说，一定会有人执意告诉我导演进行了解释，所以下文我也会举例推敲给大家看一下，导演是如何解释亚瑟的 「笑病」的，然后大家会发现，导演对于亚瑟的病，实际展示的只是「病态」，而非某种特定疾病：</p><p>不具体，也就留出了狡辩的空间。</p><p>这种玩法儿，是艺术上的<b>「偷换概念」。</b>（它实际上是一种导演不负责任的行为。）</p><p><b>2、上一点直接导致了，艺术层面导演对于「小丑的笑」的使用，泛滥并且随意。</b></p><p>这也是本片创作上最大的问题，那就是它根本不服务于电影，不服务于观众，终极目的是且仅是「名利双收」。</p><p>至于华纳对它作为一个面向大众的精神产品的责任感，可以说是负的。这其实也是我一定要提醒一下大家这个片子非常具有迷惑性的原因。</p><p>（它看上去在隐喻政治，实际上在迎合市场。）</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-092659647af71fcfa63683784964381d_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"298\" data-rawheight=\"298\" data-thumbnail=\"https://pic2.zhimg.com/v2-092659647af71fcfa63683784964381d_b.jpg\" class=\"content_image\" width=\"298\"/></figure><p>好，下面是本人对以上两点的解释部分。</p><p>首先，《小丑》会莫名其妙大笑这个行为第一次做出解释是在公交车上。</p><p>亚瑟心情不好，坐在公交车上，前排的黑人小朋友看着他，他做鬼脸逗了逗小孩，小孩的妈妈转过头来对小丑说：</p><blockquote>「请别骚扰我的小孩」 <br/>小丑回应说： <br/>「我没有啊」 <br/>妇女说： <br/>「别闹了」</blockquote><p>然后小丑就仿佛受了很大刺激开始犯病，大笑不止。</p><p>妇女问他很好笑吗，他递给妇女一张纸条，上面写着：</p><blockquote>「原谅我大笑，我有病，请翻面」<br/> 「这种病经常让我放声大笑，但这不代表我的心情，可能是大脑损伤或神经系统疾病」</blockquote><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-196d4286ca2931ea109ec4110bd7df8e_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"570\" data-rawheight=\"304\" data-thumbnail=\"https://pic3.zhimg.com/v2-196d4286ca2931ea109ec4110bd7df8e_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"570\" data-original=\"https://pic3.zhimg.com/v2-196d4286ca2931ea109ec4110bd7df8e_r.jpg\"/></figure><p><b>「可能」</b>，是大脑损伤或神经系统疾病。</p><p>这个<b>「可能是大脑损伤或神经系统疾病」</b>，用得真是有趣。为什么？</p><p>因为这里做这样的说明，看上去是为了在后文甩出亚瑟童年被虐待的事实，但是，一旦这样来解释亚瑟「笑病」，那么实际上就进一步模糊掉了亚瑟「笑病」的病症，让观众对于「笑病」的理解变成了「精神病」的一种。</p><p>每次亚瑟心情不好想要杀人的时候，这个「可能」都构成了一个有效的解释，那就是<b>——</b></p><p><b>他只是有病。</b></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-682f18580233d20837fb6d59da763bdf_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"320\" data-rawheight=\"161\" data-thumbnail=\"https://pic4.zhimg.com/v2-682f18580233d20837fb6d59da763bdf_b.jpg\" class=\"content_image\" width=\"320\"/></figure><p>恕我直言，这是一种全然不光明不磊落的叙事方式，因为这就变相地让亚瑟这个人物有了「绝对豁免权」：</p><p>都是因为别人曾经对他不好，导致了他精神出问题；</p><p>都是因为他精神出了问题，所以他即便杀人放火，他也依旧是一个好男孩。这个逻辑看上去竟然还有些让人无法反驳，但是一多想两步，就会发现它的问题在于<b>「报复对象的随意化」</b>和<b>「报复行为的扩大化」</b>。用大白话说，这个逻辑是这样的：</p><p>A在你小时候虐待了你，你长大后，觉得全世界那些BCDF都对不起你，BCDF可能只是看不惯你，或者对你不够好，但你却因为A虐待了你，觉得应该杀了BCDEFGHIJKLMN……</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-7a368790f76d3af3fc31a0d0259ce5bb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"586\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-7a368790f76d3af3fc31a0d0259ce5bb_r.jpg\"/></figure><p>我就问问大家，这个人物逻辑你们认了，你们不害怕吗？因为亚瑟有笑病，所以他不论在什么不合时宜的场合大笑，不论他能否控制、是不是故意的，都可以被解释为「他只是生病了」「我们应该体谅他」。</p><p>但是，如果你是那个被他的笑声冒犯到的人，你又如何分辨这个人的笑是否可控、是否善意的呢？</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-140cfa164424c46fd0192c8943ab6513_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"570\" data-rawheight=\"304\" data-thumbnail=\"https://pic4.zhimg.com/v2-140cfa164424c46fd0192c8943ab6513_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"570\" data-original=\"https://pic4.zhimg.com/v2-140cfa164424c46fd0192c8943ab6513_r.jpg\"/></figure><p>好，有人要说了，亚瑟说了他的笑只是一种疾病，是不可控的呀。</p><p>说到这里，设定上的漏洞又来了。</p><p><b>1、亚瑟在经历「杀母事件」之后，基本没有再出现过不可控的笑，这是为什么？</b></p><p>他的笑病到底是生理性的，还是单纯精神性的？</p><p><b>2、在小丑的同事蓝道给亚瑟手枪后，蓝道开玩笑调戏侏儒，亚瑟放声大笑，并且收放自如，没有病症。这不是能控制么？这里为什么又能控制呢？</b></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-2a6ad09ff3060cf5c90fc435e101a19d_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"570\" data-rawheight=\"304\" data-thumbnail=\"https://pic2.zhimg.com/v2-2a6ad09ff3060cf5c90fc435e101a19d_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"570\" data-original=\"https://pic2.zhimg.com/v2-2a6ad09ff3060cf5c90fc435e101a19d_r.jpg\"/></figure><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-e20ab125acfc51c5fd7000d2c31735e8_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"540\" data-rawheight=\"288\" data-thumbnail=\"https://pic1.zhimg.com/v2-e20ab125acfc51c5fd7000d2c31735e8_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"540\" data-original=\"https://pic1.zhimg.com/v2-e20ab125acfc51c5fd7000d2c31735e8_r.jpg\"/></figure><p><b>3、亚瑟多次犯病的症状是不一样的。</b></p><p>在公交车上，面对黑人妇女问他为什么笑，亚瑟笑得完全说不出话来，只能递给她小卡片解释；</p><p>在地铁上，面对华尔街精英问他为什么笑的问题，亚瑟有气喘不上来的症状（事实上开场在心理医生那里等情节也有该症状），但能说出断断续续的单词；</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-6d1164b466f8611815e16031c4c78515_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"570\" data-rawheight=\"304\" data-thumbnail=\"https://pic2.zhimg.com/v2-6d1164b466f8611815e16031c4c78515_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"570\" data-original=\"https://pic2.zhimg.com/v2-6d1164b466f8611815e16031c4c78515_r.jpg\"/></figure><p>在韦恩那里，面对韦恩问他为什么笑的问题，亚瑟笑得厉害，但是却能顺利地表达完整的短句，并且没有出现喘气问题。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-7d886e5452db91080dca91fe04349454_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"570\" data-rawheight=\"304\" data-thumbnail=\"https://pic1.zhimg.com/v2-7d886e5452db91080dca91fe04349454_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"570\" data-original=\"https://pic1.zhimg.com/v2-7d886e5452db91080dca91fe04349454_r.jpg\"/></figure><p>类似这样的细节还有很多很多，简而言之：</p><p>观众真的没法看明白亚瑟的「笑病」，到底是个什么病。</p><p>即便导演在电影中，对于亚瑟这个病的病因，做出了一个极为牵强的解释，也不行。</p><p>亚瑟去疯人院寻找母亲领养自己的证据时，看到母亲虐待自己的记录后（实际上是母亲前男友虐待的他），得知了自己小时候被绑在暖气片上被虐待的事实：</p><blockquote> 「潘妮，你儿子被绑在暖气片上面，位置就在你的公寓；营养不良，身体有多处淤痕，头部严重受伤。」</blockquote><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-9c38702e54e1ad7550a6a37c4c4009ee_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"570\" data-rawheight=\"304\" data-thumbnail=\"https://pic3.zhimg.com/v2-9c38702e54e1ad7550a6a37c4c4009ee_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"570\" data-original=\"https://pic3.zhimg.com/v2-9c38702e54e1ad7550a6a37c4c4009ee_r.jpg\"/></figure><p><b>「头部严重受伤」</b>这里可以对应在公交车上，小丑递给黑人妇女的卡片上所写的：</p><p>「可能是大脑损伤或神经系统疾病」。也就是说，亚瑟的这个「笑病」，是被母亲潘妮当时的男友殴打所致。</p><p>但是，问题是，「殴打」是何以导致一种完全新型的精神疾病产生的呢？没有说明。</p><p>而且我前面也说了，亚瑟犯病的病因也非常难测，我曾试图假设他是不能被语言刺激，但是拿几个细节一对比，就发现这个思路并不成立。</p><p>比如在公交车上，被黑人妇女说了两句，他就被刺激到了；但是在面对韦恩的时候，韦恩跟他先后说你有毛病吗，我不是你爹，你是被领养的，在这种强烈的语言刺激下，亚瑟还平静地跟韦恩来回对话了很长一串，直到对话结束，他才犯病。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-576030053a957882119bb4ad801bfd0a_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"341\" data-thumbnail=\"https://pic3.zhimg.com/v2-576030053a957882119bb4ad801bfd0a_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-576030053a957882119bb4ad801bfd0a_r.jpg\"/></figure><p>亚瑟这个病……真懂事啊。</p><p>这个病，真的也太懂得为剧情考虑了一点。</p><p>以上，都是我认为导演对亚瑟「笑病」诠释非常模糊并且站不住脚的一些细节。诸如此类的还有很多，大家可以自行去影片中挖掘。</p><p>也正是因为导演对于亚瑟的「笑病」没有做出清晰的设定和解释，并且一再利用这个理由，让亚瑟做出过激行为，方便剧情发展。（比如本片最重要的剧情转折点：地铁杀人事件）</p><p>所以，我认为：</p><p><b>导演只是在利用小丑外化的「笑脸」形象，假意给亚瑟披上一个悲情英雄的外，为的是方便获取观众情感上朴素的认同与支持，但是骨子里完全没有认真对待小丑这个人物。</b></p><p>这直接导致了亚瑟在影片中的「笑」被泛滥使用，自相矛盾之处，数不胜数。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-63d578ec82200919f104fcfb42ec66e3_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"341\" data-thumbnail=\"https://pic4.zhimg.com/v2-63d578ec82200919f104fcfb42ec66e3_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-63d578ec82200919f104fcfb42ec66e3_r.jpg\"/></figure><p>而且，从故事背景出发，即便是在哥谭市，我们也应该假设是一个基本符合正常世界运行逻辑的人类世界。</p><p>在这个前提下，如果导演不解释清楚小丑的笑病，到底是一种什么病，那么要求正常人去理解小丑不正常的行为，就是流氓做派了：</p><p>因为正常人完全无法用正常的逻辑，去判断他的行为；</p><p>同时也无法用任何病人的病理特征来观察他的行为。</p><p>应用到现实场景里，这已经不仅是一个普通的叙事逻辑问题了，这首先是一个亟待解决的医学问题啊。 </p><p>回到上面的提问：小丑是个什么样的人？</p><p>答：说不清。小丑，因为他那个说不清的病，变成了一个说不清楚的人。他不是一个完整的人物，只是一个半完成状态的设定而已。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-73d4729f108e76339dd2c66846fa0861_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"592\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-73d4729f108e76339dd2c66846fa0861_r.jpg\"/></figure><p>不信你们就观察一下，那些给《小丑》打五星的朋友们，是不是把小丑当符号看待的；他们是不是主要在结合某些完全跟故事无关的东西，在丰满小丑的人物形象、或进行情感投射？</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-ca1fa7e1046efee78e387dfcf705e178_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"631\" data-rawheight=\"120\" class=\"origin_image zh-lightbox-thumb\" width=\"631\" data-original=\"https://pic1.zhimg.com/v2-ca1fa7e1046efee78e387dfcf705e178_r.jpg\"/></figure><p>当然，这也的确为很多观众提供了辩护空间：因为设定不清楚，所以怎么脑补都可以。</p><h2><b>「人物关系」</b></h2><p>上一部分，我们已经论证了亚瑟在设定上最虚的一个问题。</p><p>那么这一部分，我们来做另外一个维度的分析，那就是我们暂时假设：亚瑟的笑病，是一种他自己本身完全未知、完全无法控制、也完全没有办法医治的一个不治之症。</p><p>在这个基础上，我们就影片写实的部分（即有故事情节设计的部分），来再思考一次：</p><p><b>小丑，到底是一个什么样的人？</b></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-19e0163360a026c4297825c8a8cf3538_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"787\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-19e0163360a026c4297825c8a8cf3538_r.jpg\"/></figure><p>这个时候，就要延续我们的关键词图，做出一张围绕小丑展开的人物关系图，来进行一个直观的讨论了：</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-eafcc28a2ff17ace6b71b3a84118a41e_b.jpg\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"637\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-eafcc28a2ff17ace6b71b3a84118a41e_r.jpg\"/><figcaption>《小丑》中，亚瑟与主要人物关系变化图</figcaption></figure><p>结合剧情，在这张人物关系图中，我们可以获得几个基本事实：</p><p><b>1、亚瑟遇到的人，很多都曾对亚瑟有过「疑似」不算友好的行为或态度。</b></p><p>这里「疑似」的含义是：亚瑟认为别人对他不友好，但是在别人的理解里，可能并没有对亚瑟不友好。</p><p>举例：心理医生。</p><p><b>2、亚瑟最后基本上杀掉了所有他能找得到的、「他认为」对他不友好的人。</b></p><p>不管这些人，是否真的对他不友好；</p><p>不管这些人，对他不友好的程度是否到了死有余辜的程度，他基本都杀了。</p><p>这里，我先以亚瑟跟母亲的关系为例，讲一下为什么我认为亚瑟这个人物做得很糟糕。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-f6347865f723695b9d585b87c594eba7_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"344\" data-thumbnail=\"https://pic4.zhimg.com/v2-f6347865f723695b9d585b87c594eba7_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-f6347865f723695b9d585b87c594eba7_r.jpg\"/></figure><p>首先，母亲，是关心过他的。</p><p>比如小丑让母亲吃饭，母亲也会让他吃，母亲会关切地说，他太瘦了。</p><blockquote>「你都瘦成皮包骨了」</blockquote><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-371c4a6080c5964fc43d9fbae5b5134a_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"341\" data-thumbnail=\"https://pic3.zhimg.com/v2-371c4a6080c5964fc43d9fbae5b5134a_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-371c4a6080c5964fc43d9fbae5b5134a_r.jpg\"/></figure><p>注意，母亲角色在本片中的表演是很出色的。</p><p>大家可以注意细节，故事设定是母亲也有精神疾病、生活基本无法自理，但她出色就出色在，她把自己的精神病病症演得很清楚：</p><p>她的精神问题体现为她的记忆和认知错乱，但这不影响她能基本按照同一个逻辑去生活与思考。</p><p>这就把潘妮这个人物做得很具体：</p><p><b>具体，才会真实、可信，有讨论价值。</b></p><p>其实大家观察亚瑟跟母亲对话的状态，可以发现，亚瑟基本上不太跟母亲有真正的亲密感，也不会为母亲创造与外界交流的机会，更不要提买个轮椅带母亲出去散散步了；并且外形上，母亲本人身型也极其消瘦，可以想见她也是过得很糟糕的。</p><p>但是，亚瑟却在脱口秀现场对莫瑞和其他人说：（尽管这个部分是他臆想的）</p><blockquote>「我把我妈照顾得很好。」</blockquote><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-156c3ddecb71d05d48eae32c97094877_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"341\" data-thumbnail=\"https://pic4.zhimg.com/v2-156c3ddecb71d05d48eae32c97094877_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-156c3ddecb71d05d48eae32c97094877_r.jpg\"/></figure><p>什么叫照顾得很好呢？</p><p>亚瑟没有钱，没法给母亲提供好的物质条件，导致母亲消瘦，这一点勉强可以理解；但是，把行动不便的母亲当作囚犯一样，终日关在家里，这也算把她照顾得很好吗？</p><p>影片中，亚瑟关心母亲的信、关心韦恩、关心自己的身世，但是，他真的关心过母亲吗？</p><p><b>场景一：</b></p><p>亚瑟回家时，发现母亲被救护车带走了，在救护车上，医生问他：</p><blockquote>「你母亲有服药吗？」<br/>「没有。」<br/>「你最后一次跟她说话是什么时候？」<br/>「我不知道。」</blockquote><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-4348fd278c5e41a5adf50047db6066e4_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"341\" data-thumbnail=\"https://pic1.zhimg.com/v2-4348fd278c5e41a5adf50047db6066e4_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-4348fd278c5e41a5adf50047db6066e4_r.jpg\"/></figure><p>后来在医院门口，警察告诉亚瑟，他们是因为地铁杀人案去找亚瑟母亲的，没想到他母亲会突然中风。</p><blockquote>「我们只是问了她一些问题，她就变得歇斯底里，过度换气，然后昏倒撞到头。」</blockquote><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-89245c426ddc00cbce778fdf5c00a592_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"341\" data-thumbnail=\"https://pic3.zhimg.com/v2-89245c426ddc00cbce778fdf5c00a592_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-89245c426ddc00cbce778fdf5c00a592_r.jpg\"/></figure><p>但是亚瑟全然不顾自己是地铁谋杀案真凶的事实——其实这也是他母亲中风的直接原因——因为她是因此而歇斯底里受到刺激的，面对警察，他劈头盖脸就是：</p><blockquote>「都是你们害的吗？」</blockquote><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-256f5a4539e9fda5f61b80eb544d6d7d_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"639\" data-rawheight=\"341\" data-thumbnail=\"https://pic2.zhimg.com/v2-256f5a4539e9fda5f61b80eb544d6d7d_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"639\" data-original=\"https://pic2.zhimg.com/v2-256f5a4539e9fda5f61b80eb544d6d7d_r.jpg\"/></figure><p>你们看，其实亚瑟的思维逻辑已经在各个地方展示得非常清晰了，那就是——</p><p><b>我过得不好，都是被人害的。</b></p><p>他总是下意识地恶意揣测是别人在针对他。</p><p>但是从不自省。</p><p>而且这里，母亲会因警察怀疑儿子是犯罪嫌疑人歇斯底里，其实从侧面很强烈地说明了：</p><p><b>她深爱着自己的儿子。</b></p><p>如果她不爱，她不会因此而有任何情绪波动，更别说歇斯底里，激动住院了。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-4c26c70ea5de38870a62fe6ca07c9363_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"675\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-4c26c70ea5de38870a62fe6ca07c9363_r.jpg\"/></figure><p>可惜儿子不爱她。一点也不。</p><p><b>场景二：</b></p><p>亚瑟去找韦恩，得知自己不是母亲的亲生孩子，他又跑去精神病院证实这一件事。</p><p>他确认了：</p><p><b>1、潘妮不是自己的亲生母亲；</b></p><p><b>2、潘妮当时的男友曾虐待自己，而潘妮袖手旁观。</b></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-7e8ff80f7cedd5787e184258eaf117d6_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"639\" data-rawheight=\"341\" data-thumbnail=\"https://pic3.zhimg.com/v2-7e8ff80f7cedd5787e184258eaf117d6_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"639\" data-original=\"https://pic3.zhimg.com/v2-7e8ff80f7cedd5787e184258eaf117d6_r.jpg\"/></figure><p>亚瑟再次感觉全世界都对不起自己。</p><p>他去医院杀了母亲。</p><p>杀她，他一个指甲盖的不舍，都没有。</p><p>他的心里全是恨。</p><p>就好像眼前被他杀死的这个女人，在他的生命中从没给过他一丁点温暖一样——</p><p>但是怎么可能没有呢。他们一起看脱口秀，一起生活，一起相依为命呀。</p><p>别说是人，一条狗跟你在一起生活几十年，杀它都该有点不舍吧。亚瑟没有。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-fd7944631639af31782d43a45e21fdbf_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"341\" data-thumbnail=\"https://pic4.zhimg.com/v2-fd7944631639af31782d43a45e21fdbf_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-fd7944631639af31782d43a45e21fdbf_r.jpg\"/></figure><p>他恨母亲没有制止当时虐待他的人，但是他忽略了：</p><p>母亲也是被殴打的那一个，她也是弱小的那一个。她也有精神病，但她本人，没有伤害过亚瑟。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-a69d92183e09a0b34b851289176903b9_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"639\" data-rawheight=\"341\" data-thumbnail=\"https://pic2.zhimg.com/v2-a69d92183e09a0b34b851289176903b9_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"639\" data-original=\"https://pic2.zhimg.com/v2-a69d92183e09a0b34b851289176903b9_r.jpg\"/></figure><p>亚瑟不管。</p><p>他只能看得见自己。</p><p>不光对待母亲，他对待自己的偶像莫瑞也是一样。</p><p>亚瑟曾经崇拜莫瑞，他想象自己去现场看莫瑞的脱口秀，告诉莫瑞自己一直跟母亲住在一起，现场的观众都哄笑起来。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-a3d5f73d1eeb48a88cdc6c6439974906_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"341\" data-thumbnail=\"https://pic3.zhimg.com/v2-a3d5f73d1eeb48a88cdc6c6439974906_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-a3d5f73d1eeb48a88cdc6c6439974906_r.jpg\"/></figure><p>在亚瑟的想象中，莫瑞跟现场的观众说不要笑，他分享了自己的故事来为亚瑟解围：</p><blockquote>「成名前我也跟我妈一起住，我跟她相依为命，我小时候，老爸出门买烟，就再也没回来了。」</blockquote><p>你们看，即便莫瑞是一个成功人士，但是他也曾是一个身世可怜的人；</p><p>所以，他用自己的故事，宽慰亚瑟，让观众理解亚瑟，甚至把他从观众席叫出来鼓励他，希望他能通过努力真正地走上人生的康庄大道。</p><p>亚瑟后来也杀了他——因为亚瑟发现，莫瑞跟自己想象的不一样。</p><p>他竟然曾在自己的节目中播放了亚瑟表演的片段，用口无遮拦的标准的美式脱口秀幽默调侃了他。要知道，这在脱口秀节目中，其实并不一定是一种恶意，并且莫瑞依然表达：</p><p>自己超喜欢亚瑟。</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-22b1533ec5159e691ae2521378f08dc6_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"639\" data-rawheight=\"341\" data-thumbnail=\"https://pic3.zhimg.com/v2-22b1533ec5159e691ae2521378f08dc6_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"639\" data-original=\"https://pic3.zhimg.com/v2-22b1533ec5159e691ae2521378f08dc6_r.jpg\"/></figure><p>这真的不一定是一句中伤。</p><p>因为他后来还邀请亚瑟去参加他的节目，尽管工作人员说这邀请是因为聊他那次节目效果好，但是对于亚瑟这样一个默默无闻的人来说，这个邀请，其实是一个他接近自己梦想的机会。</p><p>他完全有机会在电视机前去展示他能做一个喜剧演员的能力呀。但是亚瑟压根就没有这个能力。</p><p>他的能力就是，永远用最大地恶意去揣测他人。</p><p>他记不住莫瑞作为偶像给他的鼓励和「拥抱」；不能理解莫瑞的思维和工作；他还残忍地杀掉了他。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-9d8dcc543fd7df4c167385287b7a69ff_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"341\" data-thumbnail=\"https://pic4.zhimg.com/v2-9d8dcc543fd7df4c167385287b7a69ff_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-9d8dcc543fd7df4c167385287b7a69ff_r.jpg\"/></figure><p>这就是DC新塑造的超级英雄？（注：个人认为，塑造超级反派实际上也就是把反派「超级英雄化」）</p><p>我们再次回到前面的问题：<b>小丑，是一个什么样的人？</b></p><p>答：从所有跟他接触过的人的角度看，他是一个极度自私自恋的变态杀人狂。</p><p>从一个普通的、友善的人类的视角来看：这也是一个在绝对意义上，有病有害的人。</p><p>每每细想亚瑟种种杀人的动机，都叫人毛骨悚然、不寒而栗。</p><blockquote>因为这是个冷漠的世界。</blockquote><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-429e2ad794024eaabdf56676aa372adb_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"639\" data-rawheight=\"341\" data-thumbnail=\"https://pic4.zhimg.com/v2-429e2ad794024eaabdf56676aa372adb_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"639\" data-original=\"https://pic4.zhimg.com/v2-429e2ad794024eaabdf56676aa372adb_r.jpg\"/></figure><p>都是世界的错咯？</p><p>以上，是影片写实的部分，亚瑟与对自己两位最重要的人的关系的处理。（一个是亲人，一个是偶像）</p><p>从我的角度，我是不能接受这两个人被亚瑟杀害的。</p><p>因为他们并没有做什么真正意义上伤天害理的事情。</p><p>别说这两个了，包括地铁的华尔街精英、包括带孩子的黑人女邻居（导演解释说她没死，但是我仔细回看了镜头，交代得非常不清楚，无法佐证导演的解释）、包括害他丢掉工作的同事蓝道、甚至包括心理医生……这些人，就影片交代来说，没有一个是死有余辜的。</p><p>没有一个。</p><p>但是亚瑟像恶魔一样，夺走了他们的性命，并自以为正义。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-989874a16e5da3afa7fa4884572c4458_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"341\" data-thumbnail=\"https://pic1.zhimg.com/v2-989874a16e5da3afa7fa4884572c4458_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-989874a16e5da3afa7fa4884572c4458_r.jpg\"/></figure><p>这不是「精神病」朋友们，</p><p>这是真正意义上的<b>「凶手」</b>。</p><p>将一个凶手拍成拯救世界的超级英雄，这其实也从侧面揭示了，《小丑》这个作品背后的精神意旨是：</p><p><b>毁灭吧，世界。</b></p><p>我不明白，DC做这样的作品，除了点燃大众的负面情绪之外，价值何在？（关键是，故事人物都还做得一塌糊涂，完全没有艺术性）</p><p><b>「截至目前，影片全球票房将破10亿美元，收入已实现制作成本的15.3倍，成影史最赚钱漫改电影。（来自时光网）」</b></p><p>哦。</p><p>原来如此。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-6645fe0a3206937f5a1af204cda1f87f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"581\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-6645fe0a3206937f5a1af204cda1f87f_r.jpg\"/></figure><p>从商业的角度说，《小丑》的确迎合了一种极度压抑的社会情绪，他让许多情感主导理性的人能瞬间代入自己对现实的不满。是一个不错的资本商品——</p><p>但是朋友们，你们真情实感，可电影公司想要的只是你们口袋里的钞票呀。</p><p>艺术诚可贵，良心价更高。若为名利故，二者皆可抛。</p><p>这，才对得起商业电影的「商业」二字。（微笑）</p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-742128413d620997fe6eab53286bd856_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"866\" data-rawheight=\"485\" class=\"origin_image zh-lightbox-thumb\" width=\"866\" data-original=\"https://pic3.zhimg.com/v2-742128413d620997fe6eab53286bd856_r.jpg\"/></figure><p>只是可惜《小丑》没法在国内上映。</p><p>不然，DC的高层真是牙都要笑掉了：</p><p>豆瓣9.0哦，</p><p>文艺青年的韭菜，真好割。</p><p>——————————————</p><h2><b>公众号：宋雯婷（ID：swtstory）</b><br/><b>有提问欢迎来微博找我，搜：宋雯婷sweety</b><br/><b>公号后台发送电影关键字如《我不是药神》获得相关电影评论、发送演员名字关键字如「章子怡」「秦昊」「郝蕾」「黄晓明」获得演技或相关评论。</b><br/>观点一直在更新，欢迎来微博或者公号留下你的看法</h2><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-4ca41e1d32d8db93c87f57987ce2129f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"309\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-4ca41e1d32d8db93c87f57987ce2129f_r.jpg\"/></figure><p></p>",
+          "commentCount": 4384,
+          "imageUrl": "https://pic2.zhimg.com/50/v2-d6560db9f693b96a4a9b086e95378776_hd.jpg",
+          "topicThumbnails": [
+            "https://pic2.zhimg.com/50/v2-d6560db9f693b96a4a9b086e95378776_hd.jpg",
+            "https://pic2.zhimg.com/80/v2-4225cc787297d485d9fc673534336c91_250x0.jpg",
+            "https://pic4.zhimg.com/80/v2-636620dcfebf213392096a50bbece8b5_250x0.jpg"
+          ],
+          "type": "article"
+        },
+        "92799800": {
+          "updated": 1574319540,
+          "isLabeled": false,
+          "excerpt": "华语电影距离世界最高奖到底有多远？从默片时代到动荡年间、从香港领衔到大陆繁盛，从孙瑜《故都春梦》到吕班《新局长到来之前》、从谢晋《芙蓉镇》到张艺谋《活着》，一批又一批电影人前赴后继、一批又一批制作者摸索试探，似乎都在谋求一个答案，中国电影…",
+          "excerptTitle": "",
+          "id": 92799800,
+          "voteupCount": 434,
+          "author": {
+            "avatarUrlTemplate": "https://pic4.zhimg.com/50/v2-d2ae286827aacba3108d4e97c10948b4_{size}.jpg",
+            "badge": [],
+            "name": "门徒",
+            "eduMemberTag": {
+              "type": "default",
+              "memberTag": ""
+            },
+            "headline": "电影与音乐    A片与文学",
+            "gender": 1,
+            "userType": "people",
+            "isAdvertiser": false,
+            "avatarUrl": "https://pic4.zhimg.com/50/v2-d2ae286827aacba3108d4e97c10948b4_is.jpg",
+            "url": "http://www.zhihu.com/api/v4/people/5b21b369931f85195c60e1109d640a28",
+            "type": "people",
+            "urlToken": "qing-jiao-wo-bu-yiding",
+            "id": "5b21b369931f85195c60e1109d640a28",
+            "isOrg": false
+          },
+          "url": "http://zhuanlan.zhihu.com/p/92799800",
+          "title": "巩俐生涯尺度最大，国内不敢上映！这部神作讲了啥？",
+          "created": 1574238535,
+          "content": "<p>华语电影距离世界最高奖到底有多远？</p><p>从默片时代到动荡年间、从香港领衔到大陆繁盛，从孙瑜《故都春梦》到吕班《新局长到来之前》、从谢晋《芙蓉镇》到张艺谋《活着》，一批又一批电影人前赴后继、一批又一批制作者摸索试探，似乎都在谋求一个答案，中国电影站在世界最高领奖台还需多少岁月？</p><p>1988年《红高粱》斩获柏林金熊奖，打破华语电影世界大奖零的纪录，<b>在电影中张艺谋用浓墨群像、磅礴视听诠释了底层源源不竭的生命力，更印刻了文化镜像下导演炙热的创作源泉。那是张艺谋的寻根之旅，以一场战乱凝结了民族文化中张扬跋扈的生命礼赞。</b></p><p>此后侯孝贤《悲情城市》、陈凯歌《霸王别姬》相继包揽了威尼斯电影节，戛纳电影节、美国金球奖最佳外语片最高奖，在这两部作品中导演均以“时代割据”为背景，以一场轰烈的历史嬗变诉说着家国荣辱、人性斑斓。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-7052e6c10efe80774cdb35b32be4bc45_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"819\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-7052e6c10efe80774cdb35b32be4bc45_r.jpg\"/></figure><p>那是华语电影隽永徽章，是华语电影璀璨时代。</p><p>短促几年华语电影从孱弱走到世界前列，之后《活着》《喜宴》《大红灯笼高高挂》又完成对世界三大电影节“轮番洗劫”，至此华语电影真正脱胎于闭门造车，真正被世界电影人所关注。</p><p><b>可即便华语电影拥揽无数桂冠，却总于奥斯卡失之交臂，作为公认世界电影顶级盛宴，除了李安《卧虎藏龙》《断背山》《少年派的奇幻漂流》在奥斯卡包揽重量大奖，似乎内地导演都鲜与其结过姻缘。</b></p><p>其中除了陈凯歌《霸王别姬》提名过最佳外语片，张艺谋曾三次入围最后评选，可每次乘兴去都免不了折戟归，《菊豆》《大红灯笼高高照》《英雄》均进入最后评选，却均以微弱之势失败。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-bb2807e78341465b002b3b26f41bbdcb_b.jpg\" data-rawwidth=\"1025\" data-rawheight=\"1000\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1025\" data-original=\"https://pic4.zhimg.com/v2-bb2807e78341465b002b3b26f41bbdcb_r.jpg\"/></figure><p>其中《菊豆》更是中国首部获奥斯卡提名内地电影！</p><p><b>可大多时候这部作品却被低估，纵观张艺谋导演生涯，被奉为文艺圭臬佳作不胜枚举，可这部无限接近奥斯卡，并在人性方面多方揣度与衡量、批判方面极度炙热与鞭挞的《菊豆》却鲜有人提。</b></p><p>当初《菊豆》出现还有一段渊源，1989年张艺谋执导《代号美洲豹》折戟，那是他生涯第二作，标志华语片对商业片的初步试探，此片讲述了海峡两岸携手打击劫机犯故事，两岸同胞情更成为人文核心。</p><p>可是商业文化上的不兼容导致张艺谋几度崩溃，于是几经拖延与转变，造就了那部敷衍的半成品以及张艺谋生涯黑点，这种情况下张艺谋需要被认可，于是在1990年他又找来巩俐拍了《菊豆》。</p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-abba29cbd00ca7464a43c2d1933be077_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"810\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-abba29cbd00ca7464a43c2d1933be077_r.jpg\"/></figure><p>影片改编自作家刘恒的小说《伏羲伏羲》。</p><p>原小说中刘恒借用了弗洛伊德的精神分析法，并用中国民俗文化做修缮来诠释古希腊中的<b>“俄狄浦斯情结”</b>，作品里刘恒将“俄狄浦斯情结”做了东方式演绎，也让这种涉及纲常伦理、人伦羁绊的电影多了些共情。</p><p><b>张艺谋之所以选择改编《伏羲伏羲》，最重要的在于作品除了中西文化底色上的交融，其立意上更有着反封建、反枷锁的人性寓言。这是他擅长的领域，如拍摄《红高粱》时利用动荡年间祸乱，来诠释人性的挺拔与癫狂、并利用色彩间的斑斓，来表露人性的欲望与对抗。</b></p><p>同样《伏羲伏羲》改编的《菊豆》亦是毫不遮掩。</p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-8af7204d6d8fdf6d22f35b8f6d1d59c4_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"810\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-8af7204d6d8fdf6d22f35b8f6d1d59c4_r.jpg\"/></figure><p><b>或时代的脚本、或人性的寓言，张艺谋都运用了极致渲染给予诠释，除此之外相较《红高粱》的跋扈与粗犷，在这部作品里张艺谋更是百无禁忌的将情欲跟人性赤裸浴火暴露的更直接。</b></p><p>最初张艺谋定名为《呻吟》，后来改名为《菊豆》。</p><p>当然原名《呻吟》才更接近电影核心，因为<b>呻吟本是人性映照，是人性最赤裸、最欢愉时的真实反映，而影片所阐述的也正是人性最压抑、最求而不得的内心交响，以及与封建传统间的殊死对抗。</b></p><p>呻吟本就是凝结电影始末悲剧的人文核心，可由于名字过于赤裸露骨，碍于民众的接受度，张艺谋还是选择了以主人公的名字为题。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-238d096e21082203ee4c4d0f40f35089_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"810\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-238d096e21082203ee4c4d0f40f35089_r.jpg\"/></figure><p>《菊豆》中影片始终围绕主角们反纲常的复杂关系。</p><p>其中叔叔杨金山是个生理有缺陷的染房主，而为了续香火在他折腾死两个女人后，又花大价钱买了年轻漂亮女人菊豆（巩俐饰），并每天夜晚对她百般蹂躏摧残。</p><p>侄子杨天青（李保田饰）年近四十尚未娶亲，因对叔叔每夜施威而哀嚎的菊豆产生同情，于是他时常偷看年轻婶婶洗澡，之后在情感不断积攒下、在婶子的不断引诱下，他们最终突破了封建礼数、世俗伦理。</p><p><b>原本不该在一起的人越了雷池，并诞了爱情结晶，任何时代似乎这种有悖纲常的媾和都难博同情。一方是被叔叔养育的杨天青，战乱年代得一温饱实属侥幸，而另一方面则是被贩卖到杨家的菊豆，嫁为人妇衣食无忧，却暗地勾引侄子并偷偷生下“孽种”。</b></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-44c46382a298e8a13f6f9280fca380da_b.jpg\" data-rawwidth=\"1026\" data-rawheight=\"768\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1026\" data-original=\"https://pic3.zhimg.com/v2-44c46382a298e8a13f6f9280fca380da_r.jpg\"/></figure><p><b>可实际上这种媾和却是对封建的最好反叛，当被世俗牵绊、被封建碾压，所有生逢时代的大众难免沦为命运牺牲者，尤其他们饥寒交迫、以至生就是唯一渴望，可实际上除了生他们亦该有对爱的追寻。</b></p><p>张艺谋以悲天悯人的叩问，将根植于中国血液里的封建礼教打破捣碎，然后再以一种反抗式先破后立，而这也让两人不计后果的媾和，充斥着对人性欲望、身体释放的细咂琢磨。</p><p>或叔叔对菊豆的施暴、或杨天青跟菊豆的媾和报复，一切似乎都是有悖跟人性本善，但恰恰是是这种对人性本善的遗弃、对人性自私罔顾的表露无疑，更让这份礼教下的媾和显现的富有生机。</p><p>当菊豆勾引了杨天青，两人突破了枷锁跟禁忌暗地百般媾和，尤其是当叔叔中风偏瘫难以自理后，<b>菊豆与天青当其面毫不忌讳的热烈、交融，这种画面本就是自由直面封建一次鞭挞入里的嘲讽。</b></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-2af30cbb32dd2ef15ec343a0f231cb33_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"810\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-2af30cbb32dd2ef15ec343a0f231cb33_r.jpg\"/></figure><p>三十年前的电影，导演张艺谋穷极平生之能大肆渲染。</p><p><b>或逼仄空间、或明暗对比、或赤裸衣着、或深喘呼吸，一切本是道德伦理下最污秽、最肮脏的融合，却被张艺谋以迸发涌动的高亢所占据，在这种诠释下，人性最自私、最想掩盖的生理需求则成了最崇高、最值得追求的精神食量。</b></p><p>可实际有因必有果，这种报复所诞生的则是下一辈罪恶。冠以弟弟之名诞生的杨天白，实则是杨天青的血肉，可在外人面前却只能以弟弟称谓，<b>而久而久之这种反抗式爱情、这种自由文明的象征，则在封建下成了下一辈封建者誓死抗衡的东西。</b></p><p>电影中张艺谋将人物处境几度反转，勾勒出了世俗的荒诞，从开始为自由热烈交响、到之后被村里老少所指点、被孩子视为肮脏狗男女，两位生不逢时的主角注定要为这段自由付出代价。</p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-4c260f1236c6e9f65759961f7bf9b415_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"810\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-4c260f1236c6e9f65759961f7bf9b415_r.jpg\"/></figure><p>当人物处境发生转变，一场荒诞式的掩人耳目也在慢慢酝酿。</p><p>叔叔因中风不能自理，两人终于可以百无禁忌的交媾，可为了没有“怀孕”意外，菊豆要利用各种虐待式偏方麻痹自己下体，当叔叔落水身亡，众人议论纷纷，两人更要以“挡棺”方式证明清白。</p><p>于是电影最为荒诞的场面到来，当棺材经过两人哀嚎着痛哭挡棺，一人呼喊着夫君，一人呼喊着叔叔，在这种戏谑性的轮番哭丧后，棺材渐行渐远，两人却蹲坐在地方苦笑不得。</p><p><b>一时间电影那抹悲情寓意越发明显，纵然两人能冲破枷锁、冲破礼教，可以肆意在楼阁上、在屋檐下炙热交织在一起，但这种自由象征，在被封建入侵千年的土地上，始终只能隐匿于黑暗、躲藏于角落。</b></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-728de9f31e4d06d966e280d145ac6a57_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"810\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-728de9f31e4d06d966e280d145ac6a57_r.jpg\"/></figure><p>他们终究生不逢时，他们终究要被封建碾压致死。</p><p>在那个吃人社会封建伦理可入侵到任何一片土地，尤其是他们两人曾自由交融下的结晶，也正成为着被封建入侵的罪孽结果。</p><p><b>终究逃不过因果报应，在对立的文化冲突下、在腐朽的观念传播间，两人儿子杨天白又举起了封建旗帜，将象征自由的父母视为狗男女，于是在文明跟封建交锋中，文明终究又被生生不息的封建扼杀在摇篮里。</b></p><p>象征着封建“复辟”的杨天白，眼睁睁的将父亲溺死，残忍且不留人性，这无疑是封建对人性的碾压得胜，最后菊豆手举火把，象征自由将封建礼数中的无穷罪恶燃尽。</p><p><b>可实际上点燃的火焰，烧掉的只是痕迹，烧不尽的却是这土地千年来冥顽不灵的迂腐、封建压迫对自由文明亘古不变的荼毒！</b></p>",
+          "commentCount": 66,
+          "imageUrl": "https://pic3.zhimg.com/50/v2-a395b27a263fcead5f8d1c5803483517_hd.jpg",
+          "topicThumbnails": [
+            "https://pic3.zhimg.com/50/v2-a395b27a263fcead5f8d1c5803483517_hd.jpg",
+            "https://pic3.zhimg.com/80/v2-7052e6c10efe80774cdb35b32be4bc45_250x0.jpg",
+            "https://pic1.zhimg.com/80/v2-bb2807e78341465b002b3b26f41bbdcb_250x0.jpg"
+          ],
+          "type": "article"
+        },
+        "93077948": {
+          "updated": 1574366430,
+          "isLabeled": false,
+          "excerpt": "如今评判一部影视剧的好坏，豆瓣算是一杆合格的秤。评分在7分以上的算是质量合格，8分以上的已经属于上城，有了一定的特色。9分以上的更是可以被评为神作。可你有没有见过接近满分的，没见过？来，满足你！ 从2013年到现在，总共推出了四季，豆瓣评分分别是…",
+          "excerptTitle": "",
+          "id": 93077948,
+          "voteupCount": 5,
+          "author": {
+            "avatarUrlTemplate": "https://pic4.zhimg.com/50/v2-0aeccea6652866cade11ca11e082dd3f_{size}.jpg",
+            "badge": [],
+            "name": "汁圆影视",
+            "eduMemberTag": {
+              "type": "default",
+              "memberTag": ""
+            },
+            "headline": "微信公众号【汁圆影视】点资料看尽天下电影电视",
+            "gender": 0,
+            "userType": "people",
+            "isAdvertiser": false,
+            "avatarUrl": "https://pic4.zhimg.com/50/v2-0aeccea6652866cade11ca11e082dd3f_is.jpg",
+            "url": "http://www.zhihu.com/api/v4/people/513255de651006ea1df7cd1e6146a8c9",
+            "type": "people",
+            "urlToken": "zhi-yuan-ying-shi",
+            "id": "513255de651006ea1df7cd1e6146a8c9",
+            "isOrg": false
+          },
+          "url": "http://zhuanlan.zhihu.com/p/93077948",
+          "title": "评分9.9，这部神剧要逆天了！",
+          "created": 1574366430,
+          "content": "<p>如今评判一部影视剧的好坏，豆瓣算是一杆合格的秤。</p><p>评分在7分以上的算是质量合格，</p><p>8分以上的已经属于上城，有了一定的特色。</p><p>9分以上的更是可以被评为神作。</p><p>可你有没有见过接近满分的，</p><p>没见过？</p><p>来，满足你！</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-f5d35a827dde7273984add38aa4b8c0a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"808\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-f5d35a827dde7273984add38aa4b8c0a_r.jpg\"/></figure><p>从2013年到现在，总共推出了四季，豆瓣评分分别是为：<b>9.7、9.8、9.8、9.9</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-5e1646642ecc344a324efbe6ac52cd54_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"802\" data-rawheight=\"854\" class=\"origin_image zh-lightbox-thumb\" width=\"802\" data-original=\"https://pic1.zhimg.com/v2-5e1646642ecc344a324efbe6ac52cd54_r.jpg\"/></figure><p>各类网站上也是好评如潮</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-271e32300efca25b7d82c96464ffbc36_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1254\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-271e32300efca25b7d82c96464ffbc36_r.jpg\"/></figure><p>在成人动画这条路上，它似乎真的做到了没有对手！</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-ef57116fb469388e7a5569ec0ec4af2e_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"220\" data-rawheight=\"220\" data-thumbnail=\"https://pic3.zhimg.com/v2-ef57116fb469388e7a5569ec0ec4af2e_b.jpg\" class=\"content_image\" width=\"220\"/></figure><p><b>评论区里有人说到:领先100年，逆天创意，无敌脑洞。</b></p><p>可如此神作，观看人数却少的可怜，受众范围更是小众。</p><p>可能坐在屏幕前的你，也没看过之前的经典。</p><p>不过，没关系，</p><p>请做好入坑的准备</p><p>这篇我们以纯路人向的视角来好好谈一谈。</p><p><b>01.脑洞</b></p><p>星爷曾在一次新闻发布会上说过一句话:想要做好电影，就要有自己的特色，在其中某一方面将它做到极致。</p><p>他确实做到了，无厘头的笑点，成为了当时那一代无数人的青春回忆。</p><p>而《瑞克和莫蒂》的极致是什么？</p><p>无敌的脑洞！</p><p>比如有钻到圣诞老人的身体里进行检查，把身体的某个器官变成一座游乐场。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-9f9ebf96c0edf4778bbe8020565561c8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-9f9ebf96c0edf4778bbe8020565561c8_r.jpg\"/></figure><p>  （把膀胱比做瀑布真的是笑翻）</p><p>探索神秘的亚特兰蒂斯，遇见平行世界里的无数个自己；</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-54cf36112d400ee4b7427ad4ab69e98e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"348\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-54cf36112d400ee4b7427ad4ab69e98e_r.jpg\"/></figure><p>还有为躲避心理治疗化作酸黄瓜，从下水道闹到战斗基地……</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-a92de5e46319e66897fdfee9dc901501_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"711\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb\" width=\"711\" data-original=\"https://pic2.zhimg.com/v2-a92de5e46319e66897fdfee9dc901501_r.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>一个个毫无相关的事物，却因为一段天马行空的想象，将两者神奇的结合在一起，同时再配上一道令你无法反驳的逻辑。</p><p>你一边惊疑一边却又感叹道，wc，原来还能这样！</p><p>对，还能这样！</p><p>编剧贾斯汀.罗兰用实力告诉你，在这里，创意不会枯竭，不会凋零，只会升级和绽放。</p><p>脑洞这种事，只有你想不到，没有我画不出！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-9f86858e1bbee4f9983a8fec6665cf51_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"737\" data-rawheight=\"1000\" class=\"origin_image zh-lightbox-thumb\" width=\"737\" data-original=\"https://pic2.zhimg.com/v2-9f86858e1bbee4f9983a8fec6665cf51_r.jpg\"/></figure><p><b>02.态度</b></p><p>2013年，网飞突然宣布，要制作一档以两个疯子冒险的动画剧集。</p><p>疯子，加动画？</p><p>不少见惯了美剧里大场面的观众都表示，谁要看这玩意儿啊？</p><p>结果剧集一播出，所有人都傻眼了。</p><p>因为他们没想过，动画片还敢这么拍？</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-13cf9d051c2267a5015a3bba9005fcf1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"723\" data-rawheight=\"366\" class=\"origin_image zh-lightbox-thumb\" width=\"723\" data-original=\"https://pic2.zhimg.com/v2-13cf9d051c2267a5015a3bba9005fcf1_r.jpg\"/></figure><p>片场外，配音卡司不露脸，可名气却一个比一个大。</p><p>塔依加.维迪提</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-be9f0487dec1f7431c067306277cf281_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"443\" data-rawheight=\"594\" class=\"origin_image zh-lightbox-thumb\" width=\"443\" data-original=\"https://pic2.zhimg.com/v2-be9f0487dec1f7431c067306277cf281_r.jpg\"/></figure><p>漫威界的配音大咖，经典作品有《复仇者联盟4》，《奇异博士》，《雷神3》，《绿箭侠》……</p><p>还有汤姆.肯尼，《变形金刚》的常驻配音大师。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-67c9ac6fc2bf219b4af22c1d2b3654eb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1107\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-67c9ac6fc2bf219b4af22c1d2b3654eb_r.jpg\"/></figure><p>片子里，各种敏感话题统统讽刺了个遍。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-59bd47780edda26644b012075ac1d548_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"645\" data-rawheight=\"354\" class=\"origin_image zh-lightbox-thumb\" width=\"645\" data-original=\"https://pic1.zhimg.com/v2-59bd47780edda26644b012075ac1d548_r.jpg\"/></figure><p>当他重生为纳粹，房间内到处张贴着纳粹的经典标志。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>加上他重生人张牙跋扈，野蛮无理的作风，凸显了纳粹分子的做派。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-197df4280b27e3da2bdf63ce22c81a6d_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"225\" data-thumbnail=\"https://pic2.zhimg.com/v2-197df4280b27e3da2bdf63ce22c81a6d_b.jpg\" class=\"content_image\" width=\"400\"/></figure><p>紧接着，他重生为黄蜂，和黄蜂家族一起分吃食物。</p><p>黄蜂在美国文化中象征白人，即上流社会中富裕优雅的族群。</p><p>而他们分吃的昆虫，则是黑皮肤。其背后影射的种族歧视、阶级矛盾、排外主义的意味不言而喻。</p><p>所以，看《瑞克和莫蒂》很多时候经常笑着笑着戛然而止了，思绪漂着飘着就懂了。</p><p>因为在无边想象力的背后下，是后面方方正正的原则和框架。</p><p><b>03.主题</b></p><p>想象力加上态度立场，</p><p>好看是好看了，</p><p>可如果仅是这些，它也仅能称之优秀，</p><p>还不能如此的鹤立鸡群。</p><p>真正让这份成功落地的是它所烘托出的一个主题和价值观！</p><p>第四季，第一集的标题名叫Edge of Tomorty: Rick Die Rickpeat，致敬了阿汤哥主演的那部时间循环电影《明日边缘》。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-0a0d18f5b7aa2d4883172600f549888f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"405\" data-rawheight=\"600\" class=\"content_image\" width=\"405\"/></figure><p>所以既然时间可以倒回，那生命也可以重来。</p><p>祖孙爷俩，瑞克和莫蒂新冒险，去外太空采摘死亡水晶。</p><p>死亡水晶能干什么？</p><p>可以预知未来，看到自己的死亡方式。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-00f3c297791c5e695c1d7d79b1600079_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"185\" data-thumbnail=\"https://pic2.zhimg.com/v2-00f3c297791c5e695c1d7d79b1600079_b.jpg\" class=\"content_image\" width=\"400\"/></figure><p>所以在一瞬间，莫蒂看到了自己的一万种死法。</p><p>不过他也看到了自己最理想的一种死法，和女神杰西卡共度一生，并在她的怀抱与安慰中死去！</p><p>既然早死晚死都得死，那倒不如体面的死？</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-d6ccf4bf3c2d5c1a42a9964060204d09_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-d6ccf4bf3c2d5c1a42a9964060204d09_r.jpg\"/></figure><p>于是在死晶的指引下，他把瑞克甩出了飞船外，当场死亡。</p><p>而且为了达到那个最终目的，他甚至拒绝了女神杰西卡对他的“搭讪”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic1.zhimg.com/v2-54a63cd8c526176beecd0d76ff90ddec_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"608\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-54a63cd8c526176beecd0d76ff90ddec_r.jpg\"/></figure><p>无疯不成魔，他已经完完全全的被死晶控制，终于面向了死亡。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic4.zhimg.com/v2-33fca2a47291b704cbc059400f73f897_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"225\" data-thumbnail=\"https://pic4.zhimg.com/v2-33fca2a47291b704cbc059400f73f897_b.jpg\" class=\"content_image\" width=\"400\"/></figure><p>好在其他时间线中经历多次复活后的瑞克及时赶到，解救了莫蒂，让他摆脱了死晶的控制。</p><p>而结尾的彩蛋讽刺的是女神杰西卡，</p><p>她只是想去做临终关怀工作，给那些孤独终老的人送终，看着他们的姓名卡片说“我爱你”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic2.zhimg.com/v2-cf08384a33e33c75323fc8b415c3ada1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-cf08384a33e33c75323fc8b415c3ada1_r.jpg\"/></figure><p>之前付出的这么多，到头来只是竹篮打水一场空！</p><p>在这一刻，活在当下的主题得到凸显。</p><p>对，未来会怎么样，</p><p>谁知道呢？</p><p>倒不如好好活出现在的自己。</p><p>人生这一路很长，变数和坎坷也太多。</p><p><b>所以，趁着年轻想做的就去做吧！</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><img src=\"https://pic3.zhimg.com/v2-5630956e683d5fafeda7e305d647cb2a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"607\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-5630956e683d5fafeda7e305d647cb2a_r.jpg\"/></figure><blockquote><b>小伙伴们，关注我不错过每一部好剧好影,一定有你想看的！</b><br/><b>小伙伴们，关注我不错过每一部好剧好影,一定有你想看的！</b><br/><b>小伙伴们，关注我不错过每一部好剧好影,一定有你想看的！</b></blockquote>",
+          "commentCount": 0,
+          "imageUrl": "https://pic4.zhimg.com/50/v2-cc6b7a5eb41ada4481953a44c214a32e_hd.jpg",
+          "topicThumbnails": [
+            "https://pic4.zhimg.com/50/v2-cc6b7a5eb41ada4481953a44c214a32e_hd.jpg",
+            "https://pic2.zhimg.com/80/v2-f5d35a827dde7273984add38aa4b8c0a_250x0.jpg",
+            "https://pic3.zhimg.com/80/v2-5e1646642ecc344a324efbe6ac52cd54_250x0.jpg"
+          ],
+          "type": "article"
+        }
+      },
+      "columns": {},
+      "topics": {
+        "19575422": {
+          "unansweredCount": 33898,
+          "bestAnswerersCount": 20054,
+          "isBlack": false,
+          "relationship": {
+            "isEditable": false,
+            "isMetaEditable": false
+          },
+          "isIndexVisible": false,
+          "excerpt": "从艺术性、观赏性、技术性、社会性及政治等方面对一部电影进行评价和批评。 电影评论出现于 20 世纪初，是从戏剧评论发展而来。电影评论最初只在专业报刊可以读到，随着时间的推移，逐渐可以在日报和周报还有电台和电视上，最后在很多网络媒体上也可以看到电影评论的身影。 通过电影评论可以很大程度地对一部电影的票房产生影响。",
+          "isVote": false,
+          "isIndexEditable": false,
+          "isFollowing": false,
+          "id": "19575422",
+          "questionsCount": 33898,
+          "name": "影视评论",
+          "url": "http://www.zhihu.com/api/v4/topics/19575422",
+          "fatherCount": 4,
+          "headerCard": {
+            "subtitle": "",
+            "title": "影视评论",
+            "description1": "从艺术性、观赏性、技术性、社会性及政治等方面对一部电影进行评价和批评。 电影评论出现于 20 世纪初，是从戏剧评论发展而来。电影评论最初只在专业报刊可以读到，随着时间的推移，逐渐可以在日报和周报还有电台和电视上，最后在很多网络媒体上也可以看到电影评论的身影。 通过电影评论可以很大程度地对一部电影的票房产生影响。",
+            "actions": [
+              {
+                "type": "follow",
+                "name": "关注"
+              }
+            ],
+            "subtype": "topic",
+            "avatarUrl": "https://pic2.zhimg.com/50/d965da5c7_qhd.jpg",
+            "description2": "",
+            "scores": [],
+            "config": {
+              "tabs": [
+                {
+                  "url": "https://www.zhihu.com/appview/topic/19575422/intro",
+                  "fakeUrl": "topic_details/topic_19575422",
+                  "type": "intro",
+                  "name": "简介"
+                },
+                {
+                  "fakeUrl": "topic_feed/topic_19575422",
+                  "type": "discussion",
+                  "name": "讨论"
+                },
+                {
+                  "fakeUrl": "topic_top_answers/topic_19575422",
+                  "type": "essence",
+                  "name": "精华"
+                }
+              ],
+              "defaultTabType": "discussion",
+              "metaTemplateType": 1,
+              "avatarType": 1
+            }
+          },
+          "introduction": "从艺术性、观赏性、技术性、社会性及政治等方面对一部电影进行评价和批评。<br>电影评论出现于 20 世纪初，是从戏剧评论发展而来。电影评论最初只在专业报刊可以读到，随着时间的推移，逐渐可以在日报和周报还有电台和电视上，最后在很多网络媒体上也可以看到电影评论的身影。<br>通过电影评论可以很大程度地对一部电影的票房产生影响。",
+          "followersCount": 365638,
+          "avatarUrl": "https://pic2.zhimg.com/50/d965da5c7_qhd.jpg",
+          "bestAnswersCount": 999,
+          "type": "topic"
+        }
+      },
+      "roundtables": {},
+      "favlists": {},
+      "comments": {},
+      "notifications": {},
+      "ebooks": {},
+      "activities": {},
+      "feeds": {},
+      "pins": {},
+      "promotions": {},
+      "drafts": {},
+      "chats": {},
+      "posts": {},
+      "clubs": {},
+      "clubTags": {}
+    },
+    "currentUser": "",
+    "account": {
+      "lockLevel": {},
+      "unlockTicketStatus": false,
+      "unlockTicket": null,
+      "challenge": [],
+      "errorStatus": false,
+      "message": "",
+      "isFetching": false,
+      "accountInfo": {},
+      "urlToken": {
+        "loading": false
+      }
+    },
+    "settings": {
+      "socialBind": null,
+      "inboxMsg": null,
+      "notification": {},
+      "email": {},
+      "privacyFlag": null,
+      "blockedUsers": {
+        "isFetching": false,
+        "paging": {
+          "pageNo": 1,
+          "pageSize": 6
+        },
+        "data": []
+      },
+      "blockedFollowees": {
+        "isFetching": false,
+        "paging": {
+          "pageNo": 1,
+          "pageSize": 6
+        },
+        "data": []
+      },
+      "ignoredTopics": {
+        "isFetching": false,
+        "paging": {
+          "pageNo": 1,
+          "pageSize": 6
+        },
+        "data": []
+      },
+      "restrictedTopics": null,
+      "laboratory": {}
+    },
+    "notification": {},
+    "people": {
+      "profileStatus": {},
+      "activitiesByUser": {},
+      "answersByUser": {},
+      "answersSortByVotesByUser": {},
+      "answersIncludedByUser": {},
+      "votedAnswersByUser": {},
+      "thankedAnswersByUser": {},
+      "voteAnswersByUser": {},
+      "thankAnswersByUser": {},
+      "topicAnswersByUser": {},
+      "articlesByUser": {},
+      "articlesSortByVotesByUser": {},
+      "articlesIncludedByUser": {},
+      "pinsByUser": {},
+      "questionsByUser": {},
+      "commercialQuestionsByUser": {},
+      "favlistsByUser": {},
+      "followingByUser": {},
+      "followersByUser": {},
+      "mutualsByUser": {},
+      "followingColumnsByUser": {},
+      "followingQuestionsByUser": {},
+      "followingFavlistsByUser": {},
+      "followingTopicsByUser": {},
+      "publicationsByUser": {},
+      "columnsByUser": {},
+      "allFavlistsByUser": {},
+      "brands": null,
+      "creationsByUser": {},
+      "creationsSortByVotesByUser": {}
+    },
+    "env": {
+      "ab": {
+        "config": {
+          "experiments": [
+            {
+              "expId": "launch-us_foltopic_user-10",
+              "expPrefix": "us_foltopic_user",
+              "isDynamicallyUpdated": true,
+              "isRuntime": false,
+              "includeTriggerInfo": false
+            },
+            {
+              "expId": "se_multianswer-2",
+              "expPrefix": "se_multianswer",
+              "isDynamicallyUpdated": true,
+              "isRuntime": false,
+              "includeTriggerInfo": false
+            }
+          ],
+          "params": [
+            {
+              "id": "tsp_hotlist_ui",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "soc_zcfw_badcase",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "ls_zvideo_like",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_movietab",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_qa_new_cover",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_album_liutongab",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_des_detail",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "top_new_feed",
+              "type": "String",
+              "value": "5",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_hotmore",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_waterfall",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_backsearch",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_salt_hot",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_site_onebox",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_zu_recommend",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_multi_task_new",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "ug_goodcomment_0",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_android_vip",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_art_rec",
+              "type": "String",
+              "value": "base",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_likebutton",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_ctx",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "tp_meta_card",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_hot_timebox",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_topiclabel",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_slot_cold_start",
+              "type": "String",
+              "value": "aver",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_rel_search",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "pf_fuceng",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "tp_m_intro_re_topic",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "top_ydyq",
+              "type": "String",
+              "value": "X",
+              "chainId": "_all_"
+            },
+            {
+              "id": "soc_zcfw_shipinshiti",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "pf_foltopic_usernum",
+              "type": "String",
+              "value": "50",
+              "chainId": "_all_"
+            },
+            {
+              "id": "ug_follow_topic_1",
+              "type": "String",
+              "value": "2",
+              "chainId": "_all_"
+            },
+            {
+              "id": "gue_card_test",
+              "type": "String",
+              "value": "0"
+            },
+            {
+              "id": "se_ab",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "web_ad_banner",
+              "type": "String",
+              "value": "0"
+            },
+            {
+              "id": "se_mclick1",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_ctr",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_p_slideshow",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_video_recall",
+              "type": "String",
+              "value": "current_recall",
+              "chainId": "_all_"
+            },
+            {
+              "id": "tp_qa_toast",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "top_hotcommerce",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_new_commodity",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "soc_ri_merge",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_km_feed_nlp",
+              "type": "String",
+              "value": "old",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_km_special",
+              "type": "String",
+              "value": "close",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_spb309",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_col_boost",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_purchase_test",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "qap_question_visitor",
+              "type": "String",
+              "value": " 0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_cardrank_4",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "top_ebook",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "ls_zvideo_trans",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "gue_thanks",
+              "type": "String",
+              "value": "0"
+            },
+            {
+              "id": "web_answer_list_ad",
+              "type": "String",
+              "value": "1"
+            },
+            {
+              "id": "se_dnn_unbias",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_entity_model",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_topicfeed",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "gue_zhuantikapian",
+              "type": "String",
+              "value": "0"
+            },
+            {
+              "id": "zr_item_nn_recall",
+              "type": "String",
+              "value": "close",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_expslotpaid",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_new_merger",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "tp_club_qa",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "top_root",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "gue_anonymous",
+              "type": "String",
+              "value": "show"
+            },
+            {
+              "id": "zr_km_topic_zann",
+              "type": "String",
+              "value": "old",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_colorfultab",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_pay_banner_type",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_paid_answer_exp",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_ebook_audio",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_video_rank",
+              "type": "String",
+              "value": "new_rank",
+              "chainId": "_all_"
+            },
+            {
+              "id": "soc_update",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_qa_cover",
+              "type": "String",
+              "value": "old",
+              "chainId": "_all_"
+            },
+            {
+              "id": "qap_question_author",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_infinity_member",
+              "type": "String",
+              "value": "close",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_ans_rec",
+              "type": "String",
+              "value": "gbrank",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_intervene",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "tp_sft",
+              "type": "String",
+              "value": "a",
+              "chainId": "_all_"
+            },
+            {
+              "id": "gue_goods_card",
+              "type": "String",
+              "value": "0"
+            },
+            {
+              "id": "zr_paid_answer_exp",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "ug_follow_answerer_0",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_vip_lr",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_qa_btn_text",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_duration",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_km_item_prerank",
+              "type": "String",
+              "value": "old",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_ios_spb309",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_ltr_cp_new",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_mobileweb",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_km_prerank",
+              "type": "String",
+              "value": "new",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_entity_model_14",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_ctr_user",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_cardrank_3",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "web_column_auto_invite",
+              "type": "String",
+              "value": "0"
+            },
+            {
+              "id": "se_webtimebox",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_adxtest",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "top_universalebook",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_km_slot_style",
+              "type": "String",
+              "value": "event_card",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_webrs",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "soc_stickypush",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "tp_sft_v2",
+              "type": "String",
+              "value": "d",
+              "chainId": "_all_"
+            },
+            {
+              "id": "soc_notification",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "soc_yxzl_zcfw",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "soc_leave_recommend",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_km_item_cf",
+              "type": "String",
+              "value": "close",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_ltr_user",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "ug_follow_answerer",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "soc_wonderuser_recom",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_se_heat",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_tjys_ec_ab",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "web_answerlist_ad",
+              "type": "String",
+              "value": "0"
+            },
+            {
+              "id": "se_ctr_topic",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "tsp_vote",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "gue_new_special_page",
+              "type": "String",
+              "value": "0"
+            },
+            {
+              "id": "zr_answer_rec_cp",
+              "type": "String",
+              "value": "open",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_rec_answer_cp",
+              "type": "String",
+              "value": "close",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_expired_ob",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_mclick",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_preset_tech",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "top_quality",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "tsp_billboardhead",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "pf_creator_card",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_article_new",
+              "type": "String",
+              "value": "close",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_km_category",
+              "type": "String",
+              "value": "close",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_amovietab",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "web_sem_ab",
+              "type": "String",
+              "value": "1"
+            },
+            {
+              "id": "tp_qa_metacard",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "top_test_4_liguangyi",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_sug",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "tp_club_qa_pic",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "tp_topic_head",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "top_v_album",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "qap_ques_invite",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_km_answer",
+              "type": "String",
+              "value": "open_cvr",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_book_chap",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "ug_zero_follow",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_ltr_dnn_cp",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_time_threshold",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "ls_videoad",
+              "type": "String",
+              "value": "2",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_km_feed_prerank",
+              "type": "String",
+              "value": "new",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_search_feed",
+              "type": "String",
+              "value": "N",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_billboardsearch",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_auto_syn",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_video_section",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_rewrite_query",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_km_recall_num",
+              "type": "String",
+              "value": "close",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_se_new_kw",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_subtext",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "tp_header_style",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "sem_up_growth",
+              "type": "String",
+              "value": "in_app",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_slotpaidexp",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "web_question_invite",
+              "type": "String",
+              "value": "B"
+            },
+            {
+              "id": "soc_special",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_college",
+              "type": "String",
+              "value": "default",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_use_zitem",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "tp_score_1",
+              "type": "String",
+              "value": "a",
+              "chainId": "_all_"
+            },
+            {
+              "id": "ls_zvideo_license",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_go_ztext",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_aa_base",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_ctr_pyc",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_perf",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_se_section",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_prerank_heatscore",
+              "type": "String",
+              "value": "false",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_lottery",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "top_native_answer",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_test_aa1",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_famous",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "tp_qa_metacard_top",
+              "type": "String",
+              "value": "top",
+              "chainId": "_all_"
+            },
+            {
+              "id": "web_heifetz_grow_ad",
+              "type": "String",
+              "value": "1"
+            },
+            {
+              "id": "li_vip_no_ad_mon",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "pf_noti_entry_num",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_new_topic",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_rel_search",
+              "type": "String",
+              "value": "base",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_km_style",
+              "type": "String",
+              "value": "base",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_whitelist",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_zu_onebox",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_cln_vl",
+              "type": "String",
+              "value": "no",
+              "chainId": "_all_"
+            },
+            {
+              "id": "ug_zero_follow_0",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_club_post",
+              "type": "String",
+              "value": "5",
+              "chainId": "_all_"
+            },
+            {
+              "id": "ug_fw_answ_aut_1",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "soc_zuichangfangwen",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_paid_answer_mix",
+              "type": "String",
+              "value": "mixed_20",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_km_recall",
+              "type": "String",
+              "value": "default",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_websearch",
+              "type": "String",
+              "value": "3",
+              "chainId": "_all_"
+            },
+            {
+              "id": "soc_bignew",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "web_n_web_msg",
+              "type": "String",
+              "value": "0"
+            },
+            {
+              "id": "ls_fmp4",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_se_media_icon",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_video_rank_nn",
+              "type": "String",
+              "value": "new_rank",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_agency",
+              "type": "String",
+              "value": " 0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_cardrank_1",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "li_hot_score_ab",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zw_sameq_sorce",
+              "type": "String",
+              "value": "999",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_hotsearch",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "soc_zcfw_broadcast2",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "web_answer_update",
+              "type": "String",
+              "value": "0"
+            },
+            {
+              "id": "soc_bigone",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "soc_zcfw_broadcast",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_college_cm",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_wannasearch",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "qap_thanks",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_cardrank_2",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_multianswer",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_payconsult",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "qap_payc_invite",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zw_payc_qaedit",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_featured",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "tp_club_header",
+              "type": "String",
+              "value": "1",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_webmajorob",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "pf_newguide_vertical",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "ug_newtag",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "tp_sticky_android",
+              "type": "String",
+              "value": "2",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_dnn_mt",
+              "type": "String",
+              "value": "0",
+              "chainId": "_all_"
+            },
+            {
+              "id": "se_ad_index",
+              "type": "String",
+              "value": "10",
+              "chainId": "_all_"
+            },
+            {
+              "id": "zr_recall_heatscore",
+              "type": "String",
+              "value": "3_7",
+              "chainId": "_all_"
+            }
+          ],
+          "chains": [
+            {
+              "chainId": "_all_"
+            }
+          ]
+        },
+        "triggers": {}
+      },
+      "userAgent": {
+        "Edge": false,
+        "Wechat": false,
+        "Weibo": false,
+        "QQ": false,
+        "MQQBrowser": false,
+        "Qzone": false,
+        "Mobile": false,
+        "Android": false,
+        "iOS": false,
+        "isAppleDevice": false,
+        "Zhihu": false,
+        "ZhihuHybrid": false,
+        "isBot": false,
+        "Tablet": false,
+        "UC": false,
+        "Sogou": false,
+        "Qihoo": false,
+        "Baidu": false,
+        "BaiduApp": false,
+        "Safari": false,
+        "GoogleBot": false,
+        "isWebView": false,
+        "origin": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36"
+      },
+      "appViewConfig": {},
+      "ctx": {
+        "path": "/topic/19575422/hot"
+      },
+      "trafficSource": "production",
+      "edition": {
+        "baidu": false,
+        "sogou": false,
+        "baiduBeijing": false,
+        "sogouBeijing": false,
+        "sogouInput": false
+      },
+      "theme": "light",
+      "enableShortcut": true,
+      "referer": "",
+      "conf": {},
+      "ipInfo": {},
+      "logged": false
+    },
+    "me": {
+      "columnContributions": []
+    },
+    "label": {
+      "recognizerLists": {}
+    },
+    "ecommerce": {},
+    "comments": {
+      "pagination": {},
+      "collapsed": {},
+      "reverse": {},
+      "reviewing": {},
+      "conversation": {},
+      "parent": {}
+    },
+    "commentsV2": {
+      "stickers": [],
+      "commentWithPicPermission": {},
+      "notificationsComments": {},
+      "pagination": {},
+      "collapsed": {},
+      "reverse": {},
+      "reviewing": {},
+      "conversation": {},
+      "conversationMore": {},
+      "parent": {}
+    },
+    "pushNotifications": {
+      "default": {
+        "isFetching": false,
+        "isDrained": false,
+        "ids": []
+      },
+      "follow": {
+        "isFetching": false,
+        "isDrained": false,
+        "ids": []
+      },
+      "vote_thank": {
+        "isFetching": false,
+        "isDrained": false,
+        "ids": []
+      },
+      "currentTab": "default",
+      "notificationsCount": {
+        "default": 0,
+        "follow": 0,
+        "vote_thank": 0
+      }
+    },
+    "messages": {
+      "data": {},
+      "currentTab": "common",
+      "messageCount": 0
+    },
+    "register": {
+      "registerValidateSucceeded": null,
+      "registerValidateErrors": {},
+      "registerConfirmError": null,
+      "sendDigitsError": null,
+      "registerConfirmSucceeded": null
+    },
+    "login": {
+      "loginUnregisteredError": false,
+      "loginBindWechatError": false,
+      "loginConfirmError": null,
+      "sendDigitsError": null,
+      "needSMSIdentify": false,
+      "validateDigitsError": false,
+      "loginConfirmSucceeded": null,
+      "qrcodeLoginToken": "",
+      "qrcodeLoginScanStatus": 0,
+      "qrcodeLoginError": null,
+      "qrcodeLoginReturnNewToken": false
+    },
+    "active": {
+      "sendDigitsError": null,
+      "activeConfirmSucceeded": null,
+      "activeConfirmError": null
+    },
+    "switches": {},
+    "captcha": {
+      "captchaNeeded": false,
+      "captchaValidated": false,
+      "captchaBase64String": null,
+      "captchaValidationMessage": null,
+      "loginCaptchaExpires": false
+    },
+    "sms": {
+      "supportedCountries": []
+    },
+    "chat": {
+      "chats": {},
+      "inbox": {
+        "recents": {
+          "isFetching": false,
+          "isDrained": false,
+          "isPrevDrained": false,
+          "result": [],
+          "next": null,
+          "key": null
+        },
+        "strangers": {
+          "isFetching": false,
+          "isDrained": false,
+          "isPrevDrained": false,
+          "result": [],
+          "next": null,
+          "key": null
+        },
+        "friends": {
+          "isFetching": false,
+          "isDrained": false,
+          "isPrevDrained": false,
+          "result": [],
+          "next": null,
+          "key": null
+        },
+        "search": {
+          "isFetching": false,
+          "isDrained": false,
+          "isPrevDrained": false,
+          "result": [],
+          "next": null,
+          "key": null
+        },
+        "config": {
+          "newCount": 0,
+          "strangerMessageSwitch": false,
+          "strangerMessageUnread": false,
+          "friendCount": 0
+        }
+      },
+      "global": {
+        "isChatMqttExisted": false
+      }
+    },
+    "emoticons": {
+      "emoticonGroupList": [],
+      "emoticonGroupDetail": {}
+    },
+    "creator": {
+      "currentCreatorUrlToken": null,
+      "homeData": {
+        "recommendQuestions": []
+      },
+      "tools": {
+        "question": {
+          "invitationCount": {
+            "questionFolloweeCount": 0,
+            "questionTotalCount": 0
+          },
+          "goodatTopics": []
+        },
+        "customPromotion": {
+          "itemLists": {}
+        },
+        "recommend": {
+          "recommendTimes": {}
+        }
+      },
+      "explore": {
+        "academy": {
+          "tabs": [],
+          "article": {}
+        }
+      },
+      "rights": [],
+      "rightsStatus": {},
+      "levelUpperLimit": 10,
+      "account": {
+        "growthLevel": {}
+      },
+      "applyStatus": {}
+    },
+    "question": {
+      "followers": {},
+      "concernedFollowers": {},
+      "answers": {},
+      "hiddenAnswers": {},
+      "updatedAnswers": {},
+      "collapsedAnswers": {},
+      "notificationAnswers": {},
+      "invitedQuestions": {
+        "total": {
+          "count": null,
+          "isEnd": false,
+          "isLoading": false,
+          "questions": []
+        },
+        "followees": {
+          "count": null,
+          "isEnd": false,
+          "isLoading": false,
+          "questions": []
+        }
+      },
+      "laterQuestions": {
+        "count": null,
+        "globalWriteAnimate": false,
+        "isEnd": false,
+        "isLoading": false,
+        "questions": []
+      },
+      "waitingQuestions": {
+        "hot": {
+          "isEnd": false,
+          "isLoading": false,
+          "questions": []
+        },
+        "value": {
+          "isEnd": false,
+          "isLoading": false,
+          "questions": []
+        },
+        "newest": {
+          "isEnd": false,
+          "isLoading": false,
+          "questions": []
+        },
+        "easy": {
+          "isEnd": false,
+          "isLoading": false,
+          "questions": []
+        }
+      },
+      "invitationCandidates": {},
+      "inviters": {},
+      "invitees": {},
+      "similarQuestions": {},
+      "relatedCommodities": {},
+      "recommendReadings": {},
+      "bio": {},
+      "brand": {},
+      "permission": {},
+      "adverts": {},
+      "advancedStyle": {},
+      "commonAnswerCount": 0,
+      "hiddenAnswerCount": 0,
+      "meta": {},
+      "autoInvitation": {},
+      "simpleConcernedFollowers": {},
+      "draftStatus": {},
+      "disclaimers": {}
+    },
+    "shareTexts": {},
+    "answers": {
+      "voters": {},
+      "copyrightApplicants": {},
+      "favlists": {},
+      "newAnswer": {},
+      "concernedUpvoters": {},
+      "simpleConcernedUpvoters": {},
+      "paidContent": {},
+      "settings": {}
+    },
+    "banner": {},
+    "topic": {
+      "bios": {},
+      "hot": {
+        "19575422": {
+          "isFetching": false,
+          "isDrained": false,
+          "items": [
+            {
+              "type": "topic_feed",
+              "target": {
+                "id": 93077948,
+                "schema": "article"
+              },
+              "attachedInfo": "Cj8QBxoJMTA4ODEzMTkzIN7Z2+4FKAUwAEAAUhF0b3BfYWN0aXZpdHlfcG9zdFoHMTAxODk0MnIIOTMwNzc5NDg="
+            },
+            {
+              "type": "topic_feed",
+              "target": {
+                "id": 92799800,
+                "schema": "article"
+              },
+              "attachedInfo": "Cj4QBxoJMTA4NzUxNTA4IMfy0+4FKLIDMEJAAFIRdG9wX2FjdGl2aXR5X3Bvc3RaBTc1MjA4cgg5Mjc5OTgwMA=="
+            },
+            {
+              "type": "topic_feed",
+              "target": {
+                "id": 904478834,
+                "schema": "answer"
+              },
+              "attachedInfo": "CkMQBBoJMTk0NTE3NDcyIKfg2+4FKA0wA0AAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWggyMDc5OTU1OXIJOTA0NDc4ODM0"
+            },
+            {
+              "type": "topic_feed",
+              "target": {
+                "id": 904280139,
+                "schema": "answer"
+              },
+              "attachedInfo": "CkMQBBoJMTk0NDgxMjU0IJzI2u4FKAUwAUAAUhN0b3BfYWN0aXZpdHlfYW5zd2VyWgg0MTQzNjg0NXIJOTA0MjgwMTM5"
+            },
+            {
+              "type": "topic_feed",
+              "target": {
+                "id": 91839598,
+                "schema": "article"
+              },
+              "attachedInfo": "CjgQBxoJMTA4NTM4MDkxILLntO4FKIM4MKAiQABSEXRvcF9hY3Rpdml0eV9wb3N0cgg5MTgzOTU5OA=="
+            }
+          ],
+          "next": 
+          "http://www.zhihu.com/api/v4/topics/19575422/feeds/top_activity?include=data%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Danswer%29%5D.target.is_normal%2Ccomment_count%2Cvoteup_count%2Ccontent%2Crelevant_info%2Cexcerpt.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Darticle%29%5D.target.content%2Cvoteup_count%2Ccomment_count%2Cvoting%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dtopic_sticky_module%29%5D.target.data%5B%3F%28target.type%3Dpeople%29%5D.target.answer_count%2Carticles_count%2Cgender%2Cfollower_count%2Cis_followed%2Cis_following%2Cbadge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%3Bdata%5B%3F%28target.type%3Danswer%29%5D.target.author.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Darticle%29%5D.target.annotation_detail%2Ccontent%2Chermes_label%2Cis_labeled%2Cauthor.badge%5B%3F%28type%3Dbest_answerer%29%5D.topics%3Bdata%5B%3F%28target.type%3Dquestion%29%5D.target.annotation_detail%2Ccomment_count%3B&limit=5&after_id=5.00000"
+        }
+      },
+      "newest": {},
+      "top": {},
+      "unanswered": {},
+      "questions": {},
+      "followers": {},
+      "contributors": {},
+      "parent": {},
+      "children": {},
+      "bestAnswerers": {},
+      "wikiMeta": {},
+      "index": {},
+      "intro": {},
+      "meta": {},
+      "schema": {},
+      "creatorWall": {},
+      "wikiEditInfo": {},
+      "committedWiki": {},
+      "landingBasicData": {},
+      "landingExcellentItems": [],
+      "landingExcellentEditors": [],
+      "landingCatalog": [],
+      "landingEntries": {}
+    },
+    "explore": {
+      "recommendations": {},
+      "specials": {
+        "entities": {},
+        "order": []
+      },
+      "roundtables": {
+        "entities": {},
+        "order": []
+      },
+      "collections": {},
+      "columns": {}
+    },
+    "articles": {
+      "voters": {}
+    },
+    "favlists": {
+      "relations": {}
+    },
+    "pins": {
+      "voters": {}
+    },
+    "topstory": {
+      "recommend": {
+        "isFetching": false,
+        "isDrained": false,
+        "afterId": 0,
+        "items": [],
+        "next": null
+      },
+      "follow": {
+        "isFetching": false,
+        "isDrained": false,
+        "afterId": 0,
+        "items": [],
+        "next": null
+      },
+      "followWonderful": {
+        "isFetching": false,
+        "isDrained": false,
+        "afterId": 0,
+        "items": [],
+        "next": null
+      },
+      "sidebar": null,
+      "announcement": {},
+      "hotListCategories": [],
+      "hotList": [],
+      "guestFeeds": {
+        "isFetching": false,
+        "isDrained": false,
+        "afterId": 0,
+        "items": [],
+        "next": null
+      },
+      "followExtra": {
+        "isNewUser": null,
+        "isFetched": false,
+        "followCount": 0,
+        "followers": []
+      }
+    },
+    "upload": {},
+    "video": {
+      "data": {},
+      "shareVideoDetail": {},
+      "last": {}
+    },
+    "zvideos": {
+      "tagoreCategory": [],
+      "recommendations": {}
+    },
+    "guide": {
+      "guide": {
+        "isFetching": false,
+        "isShowGuide": false
+      }
+    },
+    "reward": {
+      "answer": {},
+      "article": {},
+      "question": {}
+    },
+    "search": {
+      "recommendSearch": [],
+      "topSearch": {},
+      "searchValue": {},
+      "suggestSearch": {},
+      "attachedInfo": {},
+      "nextOffset": {},
+      "topicReview": {},
+      "generalByQuery": {},
+      "generalByQueryInADay": {},
+      "generalByQueryInAWeek": {},
+      "generalByQueryInThreeMonths": {},
+      "peopleByQuery": {},
+      "topicByQuery": {},
+      "columnByQuery": {},
+      "liveByQuery": {},
+      "albumByQuery": {},
+      "eBookByQuery": {}
+    },
+    "publicEditPermission": {},
+    "readStatus": {},
+    "draftHistory": {
+      "history": {},
+      "drafts": {}
+    },
+    "notifications": {
+      "recent": {
+        "isFetching": false,
+        "isDrained": false,
+        "isPrevDrained": false,
+        "result": [],
+        "next": null,
+        "key": null
+      },
+      "history": {
+        "isFetching": false,
+        "isDrained": false,
+        "isPrevDrained": false,
+        "result": [],
+        "next": null,
+        "key": null
+      },
+      "notificationActors": {
+        "isFetching": false,
+        "isDrained": false,
+        "isPrevDrained": false,
+        "result": [],
+        "next": null,
+        "key": null
+      },
+      "recentNotificationEntry": "all"
+    },
+    "specials": {
+      "entities": {},
+      "all": {
+        "data": [],
+        "paging": {},
+        "isLoading": false
+      }
+    },
+    "collections": {
+      "hot": {
+        "data": [],
+        "paging": {},
+        "isLoading": false
+      }
+    },
+    "mcn": {
+      "bindInfo": {},
+      "memberCategoryList": [],
+      "categoryList": [],
+      "taobaoCategoryList": []
+    },
+    "brand": {
+      "contentPlugin": {}
+    },
+    "metaLink": {
+      "metaLinkTemplate": {}
+    },
+    "host": {
+      "roundtable": {
+        "subjects": {},
+        "applications": {
+          "total": 0
+        },
+        "online": {
+          "total": 0
+        },
+        "applies": {},
+        "details": {},
+        "includedResource": {},
+        "hotQuestions": {},
+        "batchInclude": {}
+      },
+      "special": {
+        "applications": {
+          "total": 0,
+          "pages": {},
+          "entities": {}
+        },
+        "censorHistory": {},
+        "drafts": {}
+      }
+    },
+    "knowledgePlan": {
+      "activityInfos": {},
+      "activityStatuses": {},
+      "premiumContents": {},
+      "activityCreationList": {},
+      "allCreationRankList": {}
+    }
+  },
+  "subAppName": "main"
+}
+
+let initialData  = document.querySelector("#js-initialData").innerText
+    
+    console.log(JSON.parse(initialData))
+let answers1 = JSON.parse(initialData).initialState.entities.answers['904462353'];
+console.log(answers1)
+// 取出内容
+      let content = document.createElement('div')
+content.innerHTML = answers1.content
+console.log(content)
+
+<p></p>
+<figure data-size="normal">
+  <noscript><img src="https://pic1.zhimg.com/50/v2-5b12fba1f7e1750b581d0307427b8c5e_b.jpg" data-rawwidth="1200" data-rawheight="878" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-438cd4efe16819f21bea7720761cb2f5_b.jpg" class="origin_image zh-lightbox-thumb" width="1200" data-original="https://pic1.zhimg.com/v2-5b12fba1f7e1750b581d0307427b8c5e_r.jpg"></noscript>
+  <img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='878'&gt;&lt;/svg&gt;" data-rawwidth="1200" data-rawheight="878" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-438cd4efe16819f21bea7720761cb2f5_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1200" data-original="https://pic1.zhimg.com/v2-5b12fba1f7e1750b581d0307427b8c5e_r.jpg" data-actualsrc="https://pic1.zhimg.com/50/v2-5b12fba1f7e1750b581d0307427b8c5e_b.jpg">
+</figure>
+<h2>先献上自己的评分8.5分。</h2>
+<p>刚看完首映场回到家，来聊聊自己的一些<b>观影感受</b>供大家参考<i>「会有剧透」</i>以及发现的一些<b>彩蛋和细节</b>。</p>
+<figure data-size="normal">
+  <noscript><img src="https://pic2.zhimg.com/50/v2-3f1f40c93c4bf3c535b888b70a210a77_b.jpg" data-rawwidth="1444" data-rawheight="876" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-24344b32825bbfd06ce20fb3ae82e9ee_b.jpg" class="origin_image zh-lightbox-thumb" width="1444" data-original="https://pic2.zhimg.com/v2-3f1f40c93c4bf3c535b888b70a210a77_r.jpg"></noscript>
+  <img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1444'%20height='876'&gt;&lt;/svg&gt;" data-rawwidth="1444" data-rawheight="876" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-24344b32825bbfd06ce20fb3ae82e9ee_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1444" data-original="https://pic2.zhimg.com/v2-3f1f40c93c4bf3c535b888b70a210a77_r.jpg" data-actualsrc="https://pic2.zhimg.com/50/v2-3f1f40c93c4bf3c535b888b70a210a77_b.jpg">
+</figure>
+<h2>「剧透预警」</h2>
+<h2><b>“有一个东西是永远不变的，爱！”  </b></h2>
+<p>不知道从什么时候开始，<b>告别与成长</b>成为这几年迪士尼动画的常驻主题。</p>
+<p><b>「无敌破坏王2」</b>里云妮洛普为了追寻自己的人生价值决定和老朋友拉尔夫告别，一个曾愧疚感伤，一个曾失望愤怒，最后理解了「友情是让对方成为更温暖更自由的人」的真谛后彼此成全和自我和解。</p>
+<p><b>「玩具总动员3」</b>里安迪最后把玩具们送给了邦尼，对玩具们的一一介绍更像是句句告白，最后的深情是车窗里浅笑低语的「Thank you！guys.」。</p><p><b>「玩具总动员4」</b>里胡迪最后坦然直面身为玩具的中年危机，决定和邦尼告别，和玩具朋友们告别，留下来和牧羊女追寻新的旅途。胡迪和巴斯光年再次从各自口中说出那句经典的「To infinity……」「and beyond」是老伙计之间的深情和告别。</p><figure data-size="normal"><noscript><img src="https://pic4.zhimg.com/50/v2-2ce0cab069d773f3b63fdc8c3f345240_b.jpg" data-rawwidth="1800" data-rawheight="1075" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-658454dab6de50c9a7667f67a8480b5f_b.jpg" class="origin_image zh-lightbox-thumb" width="1800" data-original="https://pic4.zhimg.com/v2-2ce0cab069d773f3b63fdc8c3f345240_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1800'%20height='1075'&gt;&lt;/svg&gt;" data-rawwidth="1800" data-rawheight="1075" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-658454dab6de50c9a7667f67a8480b5f_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1800" data-original="https://pic4.zhimg.com/v2-2ce0cab069d773f3b63fdc8c3f345240_r.jpg" data-actualsrc="https://pic4.zhimg.com/50/v2-2ce0cab069d773f3b63fdc8c3f345240_b.jpg"></figure><p>「冰雪奇缘2」的关键词依然是<b>告别与成长。</b></p><p>为了弥补先辈们犯下的错误、为了完成自己的使命，艾莎和安娜在冒险旅途中各自成长，虽然成长的伴随着告别，好在一切都是温暖的。</p><p><b>真正的爱并不一定要永恒的陪伴，而是彼此的成全和坚定不移的支持和理解。</b>纵使我们各奔东西，回忆里我们将一直在一起，陪伴只是换了一种形式。 </p><figure data-size="normal"><noscript><img src="https://pic3.zhimg.com/50/v2-d8bfbc123b45b62afae40fa14a0018cb_b.jpg" data-rawwidth="1800" data-rawheight="1417" data-size="normal" data-caption="" data-default-watermark-src="https://pic2.zhimg.com/50/v2-64ddbbd987ddc6ae16c221e3ebc8dcfc_b.jpg" class="origin_image zh-lightbox-thumb" width="1800" data-original="https://pic3.zhimg.com/v2-d8bfbc123b45b62afae40fa14a0018cb_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1800'%20height='1417'&gt;&lt;/svg&gt;" data-rawwidth="1800" data-rawheight="1417" data-size="normal" data-caption="" data-default-watermark-src="https://pic2.zhimg.com/50/v2-64ddbbd987ddc6ae16c221e3ebc8dcfc_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1800" data-original="https://pic3.zhimg.com/v2-d8bfbc123b45b62afae40fa14a0018cb_r.jpg" data-actualsrc="https://pic3.zhimg.com/50/v2-d8bfbc123b45b62afae40fa14a0018cb_b.jpg"></figure><p>刚看完电影心里有种<b>满足和失落</b>交织的复杂感。满足是因为许久的等待没有被辜负；失落于TA好像又不完全是我期待中的样子。</p><p>其实我个人并不是冰雪奇缘的粉丝，对冰雪1的剧情也没有太多共鸣，但是对电影中艾莎少数派身份的隐喻、反王子公主套路、一见钟情不靠谱的自我吐槽......还是颇感意外之喜。</p><p>冰雪2的首批影评里诟病最多的就是剧情，最后看下来的确是可以理解。第二部的剧情基本上<b>还是比较模式化</b>，和之前预告片分析的猜测基本八九不离十<i>「想了解剧情，又不想被完全剧透的看下面」</i>特别是<b>最后的结局，总让人感觉缺少了一点力度</b>。</p><a data-draft-node="block" data-draft-type="link-card" href="https://www.zhihu.com/question/312170868/answer/862413540" data-image="https://pic2.zhimg.com/v2-3446f06c00b12a2cef8da22114a39539_ipico.jpg" data-image-width="1276" data-image-height="1163" class="internal">如何评价《冰雪奇缘2》（Frozen2）预告片？新作可能有哪些看点？</a><p>不过除了对结局有点不满意以外，<b>魔法森林的设定和冒险旅程还是挺有惊喜感的</b>，只是如果自然之灵的背景不要太早交待得一清二楚，而是随着则冒险逐渐展开，我想会更棒。</p><p>所以<b>不要抱着过高的期待，观影过程还是会收获意外之喜</b>。</p><p>但是也不用过于担心，个人觉得剧情一向不是迪士尼的重点，<b>迪士尼最擅长的还是细节和角色刻画</b>。即使是平庸的剧情，通过迪士尼手中也能让人沉浸在里面，这就是迪士尼的魔力，或者说是能力。</p><p>特效、音乐、细节、运镜......都会让你很愉悦地享受这一个多小时，这也是我<b>打出8.5分的原因</b>。</p><figure data-size="normal"><noscript><img src="https://pic4.zhimg.com/50/v2-cb2f74445615e3e7098013aa89459d30_b.jpg" data-rawwidth="1444" data-rawheight="876" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-8d9fa360c209bd7a604e564c6bb24bc0_b.jpg" class="origin_image zh-lightbox-thumb" width="1444" data-original="https://pic4.zhimg.com/v2-cb2f74445615e3e7098013aa89459d30_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1444'%20height='876'&gt;&lt;/svg&gt;" data-rawwidth="1444" data-rawheight="876" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-8d9fa360c209bd7a604e564c6bb24bc0_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1444" data-original="https://pic4.zhimg.com/v2-cb2f74445615e3e7098013aa89459d30_r.jpg" data-actualsrc="https://pic4.zhimg.com/50/v2-cb2f74445615e3e7098013aa89459d30_b.jpg"></figure><h2><b>•艾莎Elsa</b></h2><figure data-size="normal"><noscript><img src="https://pic3.zhimg.com/50/v2-81490087e1a029ef1e5af10265b4ad37_b.jpg" data-rawwidth="1086" data-rawheight="766" data-size="normal" data-caption="" data-default-watermark-src="https://pic1.zhimg.com/50/v2-0fcab09eb5ba7dc22f7e5e306d1801ce_b.jpg" class="origin_image zh-lightbox-thumb" width="1086" data-original="https://pic3.zhimg.com/v2-81490087e1a029ef1e5af10265b4ad37_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1086'%20height='766'&gt;&lt;/svg&gt;" data-rawwidth="1086" data-rawheight="766" data-size="normal" data-caption="" data-default-watermark-src="https://pic1.zhimg.com/50/v2-0fcab09eb5ba7dc22f7e5e306d1801ce_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1086" data-original="https://pic3.zhimg.com/v2-81490087e1a029ef1e5af10265b4ad37_r.jpg" data-actualsrc="https://pic3.zhimg.com/50/v2-81490087e1a029ef1e5af10265b4ad37_b.jpg"></figure><p>艾莎还是那个害羞、善良、不愿生活在聚光灯下、害怕伤害到其他人的阿伦黛尔女王，也是那个用冰雪魔法散发魅力<b>A到让人想抽烟的冰雪女王</b>。<b><i>「艾莎在冰雪2里的魔法技能有多酷炫？我只能说又要有一大波人要拜倒在她的新制服之下了」</i></b></p><p>如果说冰雪1里是对自我的怀疑，<b>冰雪2是对自己的归属的怀疑</b>。她想尽自己的全力成为一位完美的女王，但是内心深处知道自己其实并不属于阿伦黛尔王国，心里隐隐感觉不到归属感。</p><figure data-size="normal"><noscript><img src="https://pic4.zhimg.com/50/v2-e6c842526026d62b0246f2fc398f52a9_b.jpg" data-rawwidth="1400" data-rawheight="1407" data-size="normal" data-caption="" data-default-watermark-src="https://pic2.zhimg.com/50/v2-d2ffc79a422eb592e7de03eeeebc1643_b.jpg" class="origin_image zh-lightbox-thumb" width="1400" data-original="https://pic4.zhimg.com/v2-e6c842526026d62b0246f2fc398f52a9_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1400'%20height='1407'&gt;&lt;/svg&gt;" data-rawwidth="1400" data-rawheight="1407" data-size="normal" data-caption="" data-default-watermark-src="https://pic2.zhimg.com/50/v2-d2ffc79a422eb592e7de03eeeebc1643_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1400" data-original="https://pic4.zhimg.com/v2-e6c842526026d62b0246f2fc398f52a9_r.jpg" data-actualsrc="https://pic4.zhimg.com/50/v2-e6c842526026d62b0246f2fc398f52a9_b.jpg"></figure><p>寻根的旅程并不容易，需要接受元素精灵的挑战，需要解开两代人的恩怨，需要追寻自己的使命。</p><figure data-size="normal"><noscript><img src="https://pic3.zhimg.com/50/v2-075d72ce61518c1eb51faad351df6c52_b.jpg" data-rawwidth="1743" data-rawheight="910" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-49aa51f16e99272a4dc7dded65d37557_b.jpg" class="origin_image zh-lightbox-thumb" width="1743" data-original="https://pic3.zhimg.com/v2-075d72ce61518c1eb51faad351df6c52_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1743'%20height='910'&gt;&lt;/svg&gt;" data-rawwidth="1743" data-rawheight="910" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-49aa51f16e99272a4dc7dded65d37557_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1743" data-original="https://pic3.zhimg.com/v2-075d72ce61518c1eb51faad351df6c52_r.jpg" data-actualsrc="https://pic3.zhimg.com/50/v2-075d72ce61518c1eb51faad351df6c52_b.jpg"></figure><p>甚至需要面对<b>自己的父母是为了探索她的魔力来源而遭受意外</b>的残酷真相。</p><figure data-size="normal"><noscript><img src="https://pic4.zhimg.com/50/v2-11a82464ec963216e3b3d7b5c14dbbeb_b.jpg" data-rawwidth="1600" data-rawheight="1696" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-b2d6e29da64040248b8d590c6fffd4b5_b.jpg" class="origin_image zh-lightbox-thumb" width="1600" data-original="https://pic4.zhimg.com/v2-11a82464ec963216e3b3d7b5c14dbbeb_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1600'%20height='1696'&gt;&lt;/svg&gt;" data-rawwidth="1600" data-rawheight="1696" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-b2d6e29da64040248b8d590c6fffd4b5_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1600" data-original="https://pic4.zhimg.com/v2-11a82464ec963216e3b3d7b5c14dbbeb_r.jpg" data-actualsrc="https://pic4.zhimg.com/50/v2-11a82464ec963216e3b3d7b5c14dbbeb_b.jpg"></figure><p>最后到达未知领域，在了解自己的使命之后，选择属于自己的方式来守护阿伦黛尔王国。</p><p>电影里也丝毫不吝啬对艾莎女王的偏爱，无论是<b>和水元素精灵Nokk的兵戎相见</b>，还是<b>到达未知领域后的惊艳变装</b>，艾莎女王的高光时刻都能看得出来非常烧钱，啊不对，是非常厉害。<i>「这两个画面绝对是冰雪2里最好看的两个场景」</i></p><figure data-size="normal"><noscript><img src="https://pic2.zhimg.com/50/v2-5bc0c3241515564559dc2f0aaea25c61_b.jpg" data-rawwidth="600" data-rawheight="251" data-size="normal" data-caption="" data-thumbnail="https://pic2.zhimg.com/50/v2-5bc0c3241515564559dc2f0aaea25c61_b.jpg" class="origin_image zh-lightbox-thumb" width="600" data-original="https://pic2.zhimg.com/v2-5bc0c3241515564559dc2f0aaea25c61_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='600'%20height='251'&gt;&lt;/svg&gt;" data-rawwidth="600" data-rawheight="251" data-size="normal" data-caption="" data-thumbnail="https://pic2.zhimg.com/50/v2-5bc0c3241515564559dc2f0aaea25c61_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="600" data-original="https://pic2.zhimg.com/v2-5bc0c3241515564559dc2f0aaea25c61_r.jpg" data-actualsrc="https://pic2.zhimg.com/50/v2-5bc0c3241515564559dc2f0aaea25c61_b.jpg"></figure><p>迪士尼像是在用每个特效细节向全世界宣誓「做特效我们是最专业的」。</p><figure data-size="normal"><noscript><img src="https://pic2.zhimg.com/50/v2-fc454c92ebe37e87e566233c6e3938eb_b.jpg" data-rawwidth="600" data-rawheight="250" data-size="normal" data-caption="" data-thumbnail="https://pic2.zhimg.com/50/v2-fc454c92ebe37e87e566233c6e3938eb_b.jpg" class="origin_image zh-lightbox-thumb" width="600" data-original="https://pic2.zhimg.com/v2-fc454c92ebe37e87e566233c6e3938eb_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='600'%20height='250'&gt;&lt;/svg&gt;" data-rawwidth="600" data-rawheight="250" data-size="normal" data-caption="" data-thumbnail="https://pic2.zhimg.com/50/v2-fc454c92ebe37e87e566233c6e3938eb_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="600" data-original="https://pic2.zhimg.com/v2-fc454c92ebe37e87e566233c6e3938eb_r.jpg" data-actualsrc="https://pic2.zhimg.com/50/v2-fc454c92ebe37e87e566233c6e3938eb_b.jpg"></figure><figure data-size="normal"><noscript><img src="https://pic3.zhimg.com/50/v2-7d05f11b2adb91d7e98b6eddc08fff89_b.jpg" data-rawwidth="600" data-rawheight="250" data-size="normal" data-caption="" data-thumbnail="https://pic3.zhimg.com/50/v2-7d05f11b2adb91d7e98b6eddc08fff89_b.jpg" class="origin_image zh-lightbox-thumb" width="600" data-original="https://pic3.zhimg.com/v2-7d05f11b2adb91d7e98b6eddc08fff89_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='600'%20height='250'&gt;&lt;/svg&gt;" data-rawwidth="600" data-rawheight="250" data-size="normal" data-caption="" data-thumbnail="https://pic3.zhimg.com/50/v2-7d05f11b2adb91d7e98b6eddc08fff89_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="600" data-original="https://pic3.zhimg.com/v2-7d05f11b2adb91d7e98b6eddc08fff89_r.jpg" data-actualsrc="https://pic3.zhimg.com/50/v2-7d05f11b2adb91d7e98b6eddc08fff89_b.jpg"></figure><h2>•<b>安娜Anna</b></h2><figure data-size="normal"><noscript><img src="https://pic2.zhimg.com/50/v2-ccf6985c58cc0a87c6d806ba9513afa9_b.jpg" data-rawwidth="1086" data-rawheight="766" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-cce78e726313f1e4880a5e9b503a4e85_b.jpg" class="origin_image zh-lightbox-thumb" width="1086" data-original="https://pic2.zhimg.com/v2-ccf6985c58cc0a87c6d806ba9513afa9_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1086'%20height='766'&gt;&lt;/svg&gt;" data-rawwidth="1086" data-rawheight="766" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-cce78e726313f1e4880a5e9b503a4e85_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1086" data-original="https://pic2.zhimg.com/v2-ccf6985c58cc0a87c6d806ba9513afa9_r.jpg" data-actualsrc="https://pic2.zhimg.com/50/v2-ccf6985c58cc0a87c6d806ba9513afa9_b.jpg"></figure><p>安娜的性格和艾莎完全相反，是一个闲不住的乐天行动派。<b>如果说艾莎的关键词是勇敢，那安娜的关键词一定是情谊。</b></p><figure data-size="normal"><noscript><img src="https://pic2.zhimg.com/50/v2-7343eb9ee6da5414c6580d7b94664b25_b.jpg" data-rawwidth="1593" data-rawheight="1010" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-922297615d13503af707ff7a2367d18c_b.jpg" class="origin_image zh-lightbox-thumb" width="1593" data-original="https://pic2.zhimg.com/v2-7343eb9ee6da5414c6580d7b94664b25_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1593'%20height='1010'&gt;&lt;/svg&gt;" data-rawwidth="1593" data-rawheight="1010" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-922297615d13503af707ff7a2367d18c_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1593" data-original="https://pic2.zhimg.com/v2-7343eb9ee6da5414c6580d7b94664b25_r.jpg" data-actualsrc="https://pic2.zhimg.com/50/v2-7343eb9ee6da5414c6580d7b94664b25_b.jpg"></figure><p>安娜无时无刻不<b>把自己的姐姐放在第一位</b>，不允许任何人批评或责备艾莎，是个十足的姐控。安娜想要一只陪伴在艾莎身边，就像她自己说的「我翻过北山，熬过Frozen heart，还在前男友汉斯王子手中救下你」，所以即使完全没使用魔法，她也有能力陪伴左右。</p><figure data-size="normal"><noscript><img src="https://pic1.zhimg.com/50/v2-5203d08aecb51f610c957afa74bd7f89_b.jpg" data-rawwidth="1593" data-rawheight="1010" data-size="normal" data-caption="" data-default-watermark-src="https://pic1.zhimg.com/50/v2-2f2f1220c93027647a4fa038d767521a_b.jpg" class="origin_image zh-lightbox-thumb" width="1593" data-original="https://pic1.zhimg.com/v2-5203d08aecb51f610c957afa74bd7f89_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1593'%20height='1010'&gt;&lt;/svg&gt;" data-rawwidth="1593" data-rawheight="1010" data-size="normal" data-caption="" data-default-watermark-src="https://pic1.zhimg.com/50/v2-2f2f1220c93027647a4fa038d767521a_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1593" data-original="https://pic1.zhimg.com/v2-5203d08aecb51f610c957afa74bd7f89_r.jpg" data-actualsrc="https://pic1.zhimg.com/50/v2-5203d08aecb51f610c957afa74bd7f89_b.jpg"></figure><p>在更加暗黑、更加成人化的冰雪2里，<b>安娜也更加彷徨</b>。</p><figure data-size="normal"><noscript><img src="https://pic1.zhimg.com/50/v2-3daee88dd6969ca69a4221949aa23013_b.jpg" data-rawwidth="1426" data-rawheight="1264" data-size="normal" data-caption="" data-default-watermark-src="https://pic1.zhimg.com/50/v2-627bcbb865b96225a15e67bf4ecf84e1_b.jpg" class="origin_image zh-lightbox-thumb" width="1426" data-original="https://pic1.zhimg.com/v2-3daee88dd6969ca69a4221949aa23013_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1426'%20height='1264'&gt;&lt;/svg&gt;" data-rawwidth="1426" data-rawheight="1264" data-size="normal" data-caption="" data-default-watermark-src="https://pic1.zhimg.com/50/v2-627bcbb865b96225a15e67bf4ecf84e1_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1426" data-original="https://pic1.zhimg.com/v2-3daee88dd6969ca69a4221949aa23013_r.jpg" data-actualsrc="https://pic1.zhimg.com/50/v2-3daee88dd6969ca69a4221949aa23013_b.jpg"></figure><p>最后她也证明了自己已经不再是当年那个莽撞的女孩，没有了艾莎，她也可以独自坚强面对做眼前该做的事，可以挑起更多责任......比如成为下一个女王。</p><figure data-size="normal"><noscript><img src="https://pic3.zhimg.com/50/v2-9347ba6bf1e37616da1b15cf8073625d_b.jpg" data-rawwidth="1319" data-rawheight="640" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-5dce57faa330b8a72f13de3319d5baa8_b.jpg" class="origin_image zh-lightbox-thumb" width="1319" data-original="https://pic3.zhimg.com/v2-9347ba6bf1e37616da1b15cf8073625d_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1319'%20height='640'&gt;&lt;/svg&gt;" data-rawwidth="1319" data-rawheight="640" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-5dce57faa330b8a72f13de3319d5baa8_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1319" data-original="https://pic3.zhimg.com/v2-9347ba6bf1e37616da1b15cf8073625d_r.jpg" data-actualsrc="https://pic3.zhimg.com/50/v2-9347ba6bf1e37616da1b15cf8073625d_b.jpg"></figure><h2>•<b>雪宝Olaf</b></h2><figure data-size="normal"><noscript><img src="https://pic1.zhimg.com/50/v2-6d645e25757765ec3e851fdafba183cf_b.jpg" data-rawwidth="1086" data-rawheight="766" data-size="normal" data-caption="" data-default-watermark-src="https://pic1.zhimg.com/50/v2-60c2d1332482421cfe4505c0c50dd5c7_b.jpg" class="origin_image zh-lightbox-thumb" width="1086" data-original="https://pic1.zhimg.com/v2-6d645e25757765ec3e851fdafba183cf_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1086'%20height='766'&gt;&lt;/svg&gt;" data-rawwidth="1086" data-rawheight="766" data-size="normal" data-caption="" data-default-watermark-src="https://pic1.zhimg.com/50/v2-60c2d1332482421cfe4505c0c50dd5c7_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1086" data-original="https://pic1.zhimg.com/v2-6d645e25757765ec3e851fdafba183cf_r.jpg" data-actualsrc="https://pic1.zhimg.com/50/v2-6d645e25757765ec3e851fdafba183cf_b.jpg"></figure><p>蠢萌的雪宝依然是我的最爱，这次不仅仅是<b>搞笑担当</b>，还<b>承担了一大泪点</b>。还好有他在，<b>给黑暗的氛围里带来一丝暖意。</b></p><p>如果你忘记了第一部的剧情也不要紧，剧情解说员雪宝了解一下。<b>雪宝的快速剧情回顾绝对是最爆笑的一段，没有之一。</b></p><figure data-size="normal"><noscript><img src="https://pic4.zhimg.com/50/v2-727cd0f0668932be0b31db1aa9d92301_b.jpg" data-rawwidth="1481" data-rawheight="1105" data-size="normal" data-caption="" data-default-watermark-src="https://pic2.zhimg.com/50/v2-d234b3c287c8014210a9251ad14ceedb_b.jpg" class="origin_image zh-lightbox-thumb" width="1481" data-original="https://pic4.zhimg.com/v2-727cd0f0668932be0b31db1aa9d92301_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1481'%20height='1105'&gt;&lt;/svg&gt;" data-rawwidth="1481" data-rawheight="1105" data-size="normal" data-caption="" data-default-watermark-src="https://pic2.zhimg.com/50/v2-d234b3c287c8014210a9251ad14ceedb_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1481" data-original="https://pic4.zhimg.com/v2-727cd0f0668932be0b31db1aa9d92301_r.jpg" data-actualsrc="https://pic4.zhimg.com/50/v2-727cd0f0668932be0b31db1aa9d92301_b.jpg"></figure><p>如今的雪宝已经3岁了，不再是当年那个一心向往夏天的0岁宝宝了，而是<b>长大成一个多愁善感，博览群书，充满了成长困惑，喜欢把所有的知识和生活中的一切联系在一起的话痨3岁宝宝</b>。</p><figure data-size="normal"><noscript><img src="https://pic3.zhimg.com/50/v2-4fd25c32905f9299cf575e4fa5a02ce2_b.jpg" data-rawwidth="1600" data-rawheight="849" data-size="normal" data-caption="" data-default-watermark-src="https://pic1.zhimg.com/50/v2-23f20ca5d7f727dc9d6cc6a1dc84f7fc_b.jpg" class="origin_image zh-lightbox-thumb" width="1600" data-original="https://pic3.zhimg.com/v2-4fd25c32905f9299cf575e4fa5a02ce2_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1600'%20height='849'&gt;&lt;/svg&gt;" data-rawwidth="1600" data-rawheight="849" data-size="normal" data-caption="" data-default-watermark-src="https://pic1.zhimg.com/50/v2-23f20ca5d7f727dc9d6cc6a1dc84f7fc_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1600" data-original="https://pic3.zhimg.com/v2-4fd25c32905f9299cf575e4fa5a02ce2_r.jpg" data-actualsrc="https://pic3.zhimg.com/50/v2-4fd25c32905f9299cf575e4fa5a02ce2_b.jpg"></figure><p>不得不说，雪宝这种又丑又蠢又萌又呆的存在真是我的心头好，完全没有被新出场的萌宠火元素精灵Bruni抢戏。</p><figure data-size="normal"><noscript><img src="https://pic2.zhimg.com/50/v2-fea0efdf2b89a451b5b54f13c25795da_b.jpg" data-rawwidth="1150" data-rawheight="810" data-size="normal" data-caption="" data-thumbnail="https://pic2.zhimg.com/50/v2-fea0efdf2b89a451b5b54f13c25795da_b.jpg" class="origin_image zh-lightbox-thumb" width="1150" data-original="https://pic2.zhimg.com/v2-fea0efdf2b89a451b5b54f13c25795da_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1150'%20height='810'&gt;&lt;/svg&gt;" data-rawwidth="1150" data-rawheight="810" data-size="normal" data-caption="" data-thumbnail="https://pic2.zhimg.com/50/v2-fea0efdf2b89a451b5b54f13c25795da_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1150" data-original="https://pic2.zhimg.com/v2-fea0efdf2b89a451b5b54f13c25795da_r.jpg" data-actualsrc="https://pic2.zhimg.com/50/v2-fea0efdf2b89a451b5b54f13c25795da_b.jpg"></figure><h2>•<b>阿克Kristoff</b></h2><figure data-size="normal"><noscript><img src="https://pic4.zhimg.com/50/v2-cf56e2003a7002addeb513e770321073_b.jpg" data-rawwidth="1086" data-rawheight="766" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-f61b9b39bfdd1b4a3c5a7961744fe229_b.jpg" class="origin_image zh-lightbox-thumb" width="1086" data-original="https://pic4.zhimg.com/v2-cf56e2003a7002addeb513e770321073_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1086'%20height='766'&gt;&lt;/svg&gt;" data-rawwidth="1086" data-rawheight="766" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-f61b9b39bfdd1b4a3c5a7961744fe229_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1086" data-original="https://pic4.zhimg.com/v2-cf56e2003a7002addeb513e770321073_r.jpg" data-actualsrc="https://pic4.zhimg.com/50/v2-cf56e2003a7002addeb513e770321073_b.jpg"></figure><p>第一集里的阿克没有自己的独唱歌曲是是很多人的意难平，所以这次不仅有一首好听的solo，而且还是电影里的高光时刻之一，在魔法森林里上演一支80年代复古MV，有多亮眼真的只能去电影院看才能体会。</p><figure data-size="normal"><noscript><img src="https://pic4.zhimg.com/50/v2-405b9a9e8bb1b6e6fbe6ab7988a5cbc5_b.jpg" data-rawwidth="500" data-rawheight="240" data-size="normal" data-caption="" data-thumbnail="https://pic4.zhimg.com/50/v2-405b9a9e8bb1b6e6fbe6ab7988a5cbc5_b.jpg" class="origin_image zh-lightbox-thumb" width="500" data-original="https://pic4.zhimg.com/v2-405b9a9e8bb1b6e6fbe6ab7988a5cbc5_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='500'%20height='240'&gt;&lt;/svg&gt;" data-rawwidth="500" data-rawheight="240" data-size="normal" data-caption="" data-thumbnail="https://pic4.zhimg.com/50/v2-405b9a9e8bb1b6e6fbe6ab7988a5cbc5_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="500" data-original="https://pic4.zhimg.com/v2-405b9a9e8bb1b6e6fbe6ab7988a5cbc5_r.jpg" data-actualsrc="https://pic4.zhimg.com/50/v2-405b9a9e8bb1b6e6fbe6ab7988a5cbc5_b.jpg"></figure><p>不过阿克让人些许失望的点是<b>有点不知道他在这部电影里的作用是什么</b>，之前以为会有阿克的身世之类的支线剧情，结果完全没有，<b>从头到尾就是在很认真地求婚</b>。</p><p>还好这个坎坷的求婚过程也贡献了很多笑点，只是这样完完全全的绿叶般的存在有点遗憾。</p><figure data-size="normal"><noscript><img src="https://pic1.zhimg.com/50/v2-5aaeba90e78ad539744253c37566233b_b.jpg" data-rawwidth="1444" data-rawheight="876" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-535421253fb69e6e0277e663f862f49d_b.jpg" class="origin_image zh-lightbox-thumb" width="1444" data-original="https://pic1.zhimg.com/v2-5aaeba90e78ad539744253c37566233b_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1444'%20height='876'&gt;&lt;/svg&gt;" data-rawwidth="1444" data-rawheight="876" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-535421253fb69e6e0277e663f862f49d_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1444" data-original="https://pic1.zhimg.com/v2-5aaeba90e78ad539744253c37566233b_r.jpg" data-actualsrc="https://pic1.zhimg.com/50/v2-5aaeba90e78ad539744253c37566233b_b.jpg"></figure><h2><b>OST原声和配乐</b></h2><p>在迪士尼公主宇宙里，怎么能少得了一言不合就唱歌的传统呢？更何况是捧红了洗脑神曲Let it go的冰雪奇缘系列。</p><p>要说和冰雪1配乐的最大区别应该就是<b>少了前作的那种欢乐洒落，多了些成熟的分量</b>。虽然从流行性来说稍逊于前作，但仅从个人的感受来说<b>我会更喜欢这一部的配乐</b>。</p><p>最爱的一首就是皇后给小艾莎、小安娜唱的摇篮曲<b>「All is Found」</b>，舒心安详。</p><p>特别是副歌的旋律出现在艾莎变装的时候，响起了和母亲跨时空对唱，不夸张地说鸡皮疙瘩全起来了，是<b>让我泪目的时刻</b>。</p><figure data-size="normal"><noscript><img src="https://pic1.zhimg.com/50/v2-a540f2301c93853ac7db818c3fddeda8_b.jpg" data-rawwidth="968" data-rawheight="842" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-d44973f700eb80dd07aa7eacd1d8777e_b.jpg" class="origin_image zh-lightbox-thumb" width="968" data-original="https://pic1.zhimg.com/v2-a540f2301c93853ac7db818c3fddeda8_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='968'%20height='842'&gt;&lt;/svg&gt;" data-rawwidth="968" data-rawheight="842" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-d44973f700eb80dd07aa7eacd1d8777e_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="968" data-original="https://pic1.zhimg.com/v2-a540f2301c93853ac7db818c3fddeda8_r.jpg" data-actualsrc="https://pic1.zhimg.com/50/v2-a540f2301c93853ac7db818c3fddeda8_b.jpg"></figure><p><b>「Lost in the Woods」</b>绝对会是所有人印象最深的一首歌，阿克终于迎来了自己完整的独唱，一首失落男人的伤心情歌，搭配80年代卡拉OK风格的画面，<b>旋律也很抓耳，提前预定未来一个月的单曲循环</b>。</p><p>艾莎的独唱有两首，一首是<b>「Into the Unknown」</b>，宣传期一直在主打的歌曲，单从旋律上完全听不出要取代Let it go的野心，不过虽然没有郎朗伤口的旋律但是<b>配合剧情在电影院听起来还是很带感</b>。</p><p>另外一首<b>「Show Yourself」</b>，是艾莎<b>超级惊艳的变装时刻</b>，好看好听到让人想流泪，是<b>整场电影最让人想repeat的桥</b>段。</p><figure data-size="normal"><noscript><img src="https://pic2.zhimg.com/50/v2-27549b6736ced6cbb53de3b6ad6a9bfd_b.jpg" data-rawwidth="1400" data-rawheight="1250" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-1f413d5698bbff2d336f07cb32dc3db5_b.jpg" class="origin_image zh-lightbox-thumb" width="1400" data-original="https://pic2.zhimg.com/v2-27549b6736ced6cbb53de3b6ad6a9bfd_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1400'%20height='1250'&gt;&lt;/svg&gt;" data-rawwidth="1400" data-rawheight="1250" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-1f413d5698bbff2d336f07cb32dc3db5_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1400" data-original="https://pic2.zhimg.com/v2-27549b6736ced6cbb53de3b6ad6a9bfd_r.jpg" data-actualsrc="https://pic2.zhimg.com/50/v2-27549b6736ced6cbb53de3b6ad6a9bfd_b.jpg"></figure><p>所有人的一首合唱<b>「Some Things Never Change」</b> 、安娜的独唱<b>「The Next Right Thing」</b>、雪宝的独唱<b>「When I Am Older」</b>在电影院里都特别好听，很契合整个电影的剧情和意境。</p><figure data-size="normal"><noscript><img src="https://pic2.zhimg.com/50/v2-7701c7380d9a65625489da610e59fae5_b.jpg" data-rawwidth="1444" data-rawheight="876" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-7547b716d18b6018b6448fd6c51ea8ee_b.jpg" class="origin_image zh-lightbox-thumb" width="1444" data-original="https://pic2.zhimg.com/v2-7701c7380d9a65625489da610e59fae5_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1444'%20height='876'&gt;&lt;/svg&gt;" data-rawwidth="1444" data-rawheight="876" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-7547b716d18b6018b6448fd6c51ea8ee_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1444" data-original="https://pic2.zhimg.com/v2-7701c7380d9a65625489da610e59fae5_r.jpg" data-actualsrc="https://pic2.zhimg.com/50/v2-7701c7380d9a65625489da610e59fae5_b.jpg"></figure><p>最后再聊聊一些彩蛋和细节。</p><h2><b>•年纪</b></h2><p>冰雪2的故事发生在冰雪1的<b>三年后</b>，艾莎是24岁，安娜21岁，阿克23岁，小斯3岁。</p><figure data-size="normal"><noscript><img src="https://pic4.zhimg.com/50/v2-4e557f94ce6730e9c25a6c8a412499bb_b.jpg" data-rawwidth="1850" data-rawheight="1220" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-a80e740989b90d184f80b26db9fe4f4e_b.jpg" class="origin_image zh-lightbox-thumb" width="1850" data-original="https://pic4.zhimg.com/v2-4e557f94ce6730e9c25a6c8a412499bb_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1850'%20height='1220'&gt;&lt;/svg&gt;" data-rawwidth="1850" data-rawheight="1220" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-a80e740989b90d184f80b26db9fe4f4e_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1850" data-original="https://pic4.zhimg.com/v2-4e557f94ce6730e9c25a6c8a412499bb_r.jpg" data-actualsrc="https://pic4.zhimg.com/50/v2-4e557f94ce6730e9c25a6c8a412499bb_b.jpg"></figure><h2>•<b>比手画脚</b></h2><p>艾莎、安娜、阿克、雪宝、小斯在玩比手画脚的游戏时，雪宝分别模仿了独角兽「冰雪1里安娜给雪宝装的鼻子，雪宝称TA为独角兽」</p><figure data-size="normal"><noscript><img src="https://pic4.zhimg.com/50/v2-e7097ce49e4653a7358d46879d51bea3_b.jpg" data-rawwidth="1400" data-rawheight="1476" data-size="normal" data-caption="" data-default-watermark-src="https://pic1.zhimg.com/50/v2-8fe7d6b82ac74b924e8d7c86cc801ed8_b.jpg" class="origin_image zh-lightbox-thumb" width="1400" data-original="https://pic4.zhimg.com/v2-e7097ce49e4653a7358d46879d51bea3_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1400'%20height='1476'&gt;&lt;/svg&gt;" data-rawwidth="1400" data-rawheight="1476" data-size="normal" data-caption="" data-default-watermark-src="https://pic1.zhimg.com/50/v2-8fe7d6b82ac74b924e8d7c86cc801ed8_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1400" data-original="https://pic4.zhimg.com/v2-e7097ce49e4653a7358d46879d51bea3_r.jpg" data-actualsrc="https://pic4.zhimg.com/50/v2-e7097ce49e4653a7358d46879d51bea3_b.jpg"></figure><p>冰淇淋「猜测是冰雪1里安娜和汉斯准备在婚礼上准备的甜品」</p><figure data-size="normal"><noscript><img src="https://pic4.zhimg.com/50/v2-81b3d36adbd30f0984b0775db769012d_b.jpg" data-rawwidth="1400" data-rawheight="1476" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-6239b19d8cf74cd9b73d8a790891974e_b.jpg" class="origin_image zh-lightbox-thumb" width="1400" data-original="https://pic4.zhimg.com/v2-81b3d36adbd30f0984b0775db769012d_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1400'%20height='1476'&gt;&lt;/svg&gt;" data-rawwidth="1400" data-rawheight="1476" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-6239b19d8cf74cd9b73d8a790891974e_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1400" data-original="https://pic4.zhimg.com/v2-81b3d36adbd30f0984b0775db769012d_r.jpg" data-actualsrc="https://pic4.zhimg.com/50/v2-81b3d36adbd30f0984b0775db769012d_b.jpg"></figure><p>城堡「当然就是迪士尼城堡咯，不过也可能是阿伦黛尔的城堡」</p><figure data-size="normal"><noscript><img src="https://pic3.zhimg.com/50/v2-13b46c17e1715943a48499d77420b8bb_b.jpg" data-rawwidth="1400" data-rawheight="1476" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-419154ba19e790f821cd915a0ce564b3_b.jpg" class="origin_image zh-lightbox-thumb" width="1400" data-original="https://pic3.zhimg.com/v2-13b46c17e1715943a48499d77420b8bb_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1400'%20height='1476'&gt;&lt;/svg&gt;" data-rawwidth="1400" data-rawheight="1476" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-419154ba19e790f821cd915a0ce564b3_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1400" data-original="https://pic3.zhimg.com/v2-13b46c17e1715943a48499d77420b8bb_r.jpg" data-actualsrc="https://pic3.zhimg.com/50/v2-13b46c17e1715943a48499d77420b8bb_b.jpg"></figure><p>奥肯「桑拿店老板」</p><figure data-size="normal"><noscript><img src="https://pic2.zhimg.com/50/v2-791e44a12dab3d90babe50dca4736fd0_b.jpg" data-rawwidth="1400" data-rawheight="1476" data-size="normal" data-caption="" data-default-watermark-src="https://pic1.zhimg.com/50/v2-7ddf56d6f74dba22377d6b282a3dac11_b.jpg" class="origin_image zh-lightbox-thumb" width="1400" data-original="https://pic2.zhimg.com/v2-791e44a12dab3d90babe50dca4736fd0_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1400'%20height='1476'&gt;&lt;/svg&gt;" data-rawwidth="1400" data-rawheight="1476" data-size="normal" data-caption="" data-default-watermark-src="https://pic1.zhimg.com/50/v2-7ddf56d6f74dba22377d6b282a3dac11_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1400" data-original="https://pic2.zhimg.com/v2-791e44a12dab3d90babe50dca4736fd0_r.jpg" data-actualsrc="https://pic2.zhimg.com/50/v2-791e44a12dab3d90babe50dca4736fd0_b.jpg"></figure><p>茶壶「可能是冰雪1里汉斯浇灭柴火的茶壶」</p><figure data-size="normal"><noscript><img src="https://pic2.zhimg.com/50/v2-cde18c207d59bad6e0a60b249ab5223b_b.jpg" data-rawwidth="1400" data-rawheight="1476" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-d690926002c22c49e541f0964071bea6_b.jpg" class="origin_image zh-lightbox-thumb" width="1400" data-original="https://pic2.zhimg.com/v2-cde18c207d59bad6e0a60b249ab5223b_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1400'%20height='1476'&gt;&lt;/svg&gt;" data-rawwidth="1400" data-rawheight="1476" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-d690926002c22c49e541f0964071bea6_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1400" data-original="https://pic2.zhimg.com/v2-cde18c207d59bad6e0a60b249ab5223b_r.jpg" data-actualsrc="https://pic2.zhimg.com/50/v2-cde18c207d59bad6e0a60b249ab5223b_b.jpg"></figure><p>米奇「这个就不用多说了吧」</p><figure data-size="normal"><noscript><img src="https://pic1.zhimg.com/50/v2-127015a5df656de38b253548d4870386_b.jpg" data-rawwidth="1521" data-rawheight="826" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-08641d6519475958c5a6e6a95054530c_b.jpg" class="origin_image zh-lightbox-thumb" width="1521" data-original="https://pic1.zhimg.com/v2-127015a5df656de38b253548d4870386_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1521'%20height='826'&gt;&lt;/svg&gt;" data-rawwidth="1521" data-rawheight="826" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-08641d6519475958c5a6e6a95054530c_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1521" data-original="https://pic1.zhimg.com/v2-127015a5df656de38b253548d4870386_r.jpg" data-actualsrc="https://pic1.zhimg.com/50/v2-127015a5df656de38b253548d4870386_b.jpg"></figure><p>还有最爆笑的唱着Let it go艾莎妖娆的舞步。</p><figure data-size="normal"><noscript><img src="https://pic1.zhimg.com/50/v2-435701eba99e96b340d204f0ae8ad3bf_b.jpg" data-rawwidth="600" data-rawheight="250" data-size="normal" data-caption="" data-thumbnail="https://pic1.zhimg.com/50/v2-435701eba99e96b340d204f0ae8ad3bf_b.jpg" class="origin_image zh-lightbox-thumb" width="600" data-original="https://pic1.zhimg.com/v2-435701eba99e96b340d204f0ae8ad3bf_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='600'%20height='250'&gt;&lt;/svg&gt;" data-rawwidth="600" data-rawheight="250" data-size="normal" data-caption="" data-thumbnail="https://pic1.zhimg.com/50/v2-435701eba99e96b340d204f0ae8ad3bf_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="600" data-original="https://pic1.zhimg.com/v2-435701eba99e96b340d204f0ae8ad3bf_r.jpg" data-actualsrc="https://pic1.zhimg.com/50/v2-435701eba99e96b340d204f0ae8ad3bf_b.jpg"></figure><figure data-size="normal"><noscript><img src="https://pic3.zhimg.com/50/v2-f595873590a3b1d00db948af38b8fdc0_b.jpg" data-rawwidth="592" data-rawheight="250" data-size="normal" data-caption="" data-thumbnail="https://pic3.zhimg.com/50/v2-f595873590a3b1d00db948af38b8fdc0_b.jpg" class="origin_image zh-lightbox-thumb" width="592" data-original="https://pic3.zhimg.com/v2-f595873590a3b1d00db948af38b8fdc0_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='592'%20height='250'&gt;&lt;/svg&gt;" data-rawwidth="592" data-rawheight="250" data-size="normal" data-caption="" data-thumbnail="https://pic3.zhimg.com/50/v2-f595873590a3b1d00db948af38b8fdc0_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="592" data-original="https://pic3.zhimg.com/v2-f595873590a3b1d00db948af38b8fdc0_r.jpg" data-actualsrc="https://pic3.zhimg.com/50/v2-f595873590a3b1d00db948af38b8fdc0_b.jpg"></figure><h2>•<b>城堡画像</b></h2><p>比手画脚因艾莎被神秘声音困扰而中断时，安娜问阿克「有没有感觉艾莎有点反常？」注意阿克身后的两幅画像，分别是祖父<b>Runeard</b>和黑人将军<b>Mattias</b>。</p><figure data-size="normal"><noscript><img src="https://pic2.zhimg.com/50/v2-3863a7b0ad6d8ef93aa54ae0d496166e_b.jpg" data-rawwidth="1653" data-rawheight="933" data-size="normal" data-caption="" data-default-watermark-src="https://pic2.zhimg.com/50/v2-2f472d4f98df5fc5f874cf6316909cb7_b.jpg" class="origin_image zh-lightbox-thumb" width="1653" data-original="https://pic2.zhimg.com/v2-3863a7b0ad6d8ef93aa54ae0d496166e_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1653'%20height='933'&gt;&lt;/svg&gt;" data-rawwidth="1653" data-rawheight="933" data-size="normal" data-caption="" data-default-watermark-src="https://pic2.zhimg.com/50/v2-2f472d4f98df5fc5f874cf6316909cb7_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1653" data-original="https://pic2.zhimg.com/v2-3863a7b0ad6d8ef93aa54ae0d496166e_r.jpg" data-actualsrc="https://pic2.zhimg.com/50/v2-3863a7b0ad6d8ef93aa54ae0d496166e_b.jpg"></figure><h2>•<b>桑拿店老板奥肯</b></h2><p>水坝被毁后，地精佩比爷爷和所有人站在高处看着大水快要冲毁阿伦黛尔时，这里能看到桑拿店老板奥肯客串出场。</p><figure data-size="normal"><noscript><img src="https://pic4.zhimg.com/50/v2-6ad1b5d3c58106f5943601208901dbbf_b.jpg" data-rawwidth="3338" data-rawheight="1879" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-3f5108b6bf9017196b5e25e9561f0537_b.jpg" class="origin_image zh-lightbox-thumb" width="3338" data-original="https://pic4.zhimg.com/v2-6ad1b5d3c58106f5943601208901dbbf_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='3338'%20height='1879'&gt;&lt;/svg&gt;" data-rawwidth="3338" data-rawheight="1879" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-3f5108b6bf9017196b5e25e9561f0537_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="3338" data-original="https://pic4.zhimg.com/v2-6ad1b5d3c58106f5943601208901dbbf_r.jpg" data-actualsrc="https://pic4.zhimg.com/50/v2-6ad1b5d3c58106f5943601208901dbbf_b.jpg"></figure><h2>•<b>艾莎的冰宫</b></h2><p>艾莎等一众人一路向北前往魔法森林的时候，途中经过艾莎在第一部里创造出的冰宫。</p><figure data-size="normal"><noscript><img src="https://pic4.zhimg.com/50/v2-d71afa270aadec9c6858bde64f299459_b.jpg" data-rawwidth="1316" data-rawheight="698" data-size="normal" data-caption="" data-default-watermark-src="https://pic1.zhimg.com/50/v2-5f060a261fa1ce14eb830ae1b5e8449b_b.jpg" class="origin_image zh-lightbox-thumb" width="1316" data-original="https://pic4.zhimg.com/v2-d71afa270aadec9c6858bde64f299459_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1316'%20height='698'&gt;&lt;/svg&gt;" data-rawwidth="1316" data-rawheight="698" data-size="normal" data-caption="" data-default-watermark-src="https://pic1.zhimg.com/50/v2-5f060a261fa1ce14eb830ae1b5e8449b_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1316" data-original="https://pic4.zhimg.com/v2-d71afa270aadec9c6858bde64f299459_r.jpg" data-actualsrc="https://pic4.zhimg.com/50/v2-d71afa270aadec9c6858bde64f299459_b.jpg"></figure><h2>•<b>水元素精灵Nokk</b></h2><p>水元素精灵Nokk的原型源自日耳曼神话，是一种可以变换成美丽的女人、俊俏的男人、挺拔的骏马等各种形态的水魂，吸引人类再将其骗入水中溺死。</p><figure data-size="normal"><noscript><img src="https://pic3.zhimg.com/50/v2-08a4aa598a0c078af719ef6ed25a5e7b_b.jpg" data-rawwidth="2037" data-rawheight="1032" data-size="normal" data-caption="" data-default-watermark-src="https://pic2.zhimg.com/50/v2-5fb275ddec31fe6276d552a806f8382d_b.jpg" class="origin_image zh-lightbox-thumb" width="2037" data-original="https://pic3.zhimg.com/v2-08a4aa598a0c078af719ef6ed25a5e7b_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='2037'%20height='1032'&gt;&lt;/svg&gt;" data-rawwidth="2037" data-rawheight="1032" data-size="normal" data-caption="" data-default-watermark-src="https://pic2.zhimg.com/50/v2-5fb275ddec31fe6276d552a806f8382d_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="2037" data-original="https://pic3.zhimg.com/v2-08a4aa598a0c078af719ef6ed25a5e7b_r.jpg" data-actualsrc="https://pic3.zhimg.com/50/v2-08a4aa598a0c078af719ef6ed25a5e7b_b.jpg"></figure><p>后来流传到挪威、冰岛，演变成了马形态的水中生物，会出现在江、河、湖、海之中，和电影里的设定一样。传说冬天结冰湖面上的裂痕就是Nokk移动的痕迹。</p><figure data-size="normal"><noscript><img src="https://pic4.zhimg.com/50/v2-2db2bbbd5ecd43a7787ace7500c1bc20_b.jpg" data-rawwidth="808" data-rawheight="696" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-ff10044554504fe7e2c709000a6fbb41_b.jpg" class="origin_image zh-lightbox-thumb" width="808" data-original="https://pic4.zhimg.com/v2-2db2bbbd5ecd43a7787ace7500c1bc20_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='808'%20height='696'&gt;&lt;/svg&gt;" data-rawwidth="808" data-rawheight="696" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-ff10044554504fe7e2c709000a6fbb41_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="808" data-original="https://pic4.zhimg.com/v2-2db2bbbd5ecd43a7787ace7500c1bc20_r.jpg" data-actualsrc="https://pic4.zhimg.com/50/v2-2db2bbbd5ecd43a7787ace7500c1bc20_b.jpg"></figure><h2>•<b>火元素精灵Bruni</b></h2><p>可爱担当Bruni是火元素精灵，源自中世纪欧洲炼金术和地方传说中的沙罗曼达Salamander。Salamander一词也有蝾螈的意思，所以电影里的形象是一只萌即正义的蝾螈。</p><figure data-size="normal"><noscript><img src="https://pic1.zhimg.com/50/v2-9a6aa0ef9cf4a04578995be2063f76ee_b.jpg" data-rawwidth="1150" data-rawheight="810" data-size="normal" data-caption="" data-thumbnail="https://pic1.zhimg.com/50/v2-9a6aa0ef9cf4a04578995be2063f76ee_b.jpg" class="origin_image zh-lightbox-thumb" width="1150" data-original="https://pic1.zhimg.com/v2-9a6aa0ef9cf4a04578995be2063f76ee_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1150'%20height='810'&gt;&lt;/svg&gt;" data-rawwidth="1150" data-rawheight="810" data-size="normal" data-caption="" data-thumbnail="https://pic1.zhimg.com/50/v2-9a6aa0ef9cf4a04578995be2063f76ee_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1150" data-original="https://pic1.zhimg.com/v2-9a6aa0ef9cf4a04578995be2063f76ee_r.jpg" data-actualsrc="https://pic1.zhimg.com/50/v2-9a6aa0ef9cf4a04578995be2063f76ee_b.jpg"></figure><p>传说中的Salamander一直与火密不可分，这与蝾螈冬眠在腐木之内的特性有很大的关系。当腐木被带回家当作柴烧时，冬眠的蝾螈就从火焰中“神秘”出现。</p><figure data-size="normal"><noscript><img src="https://pic3.zhimg.com/50/v2-996ed0354228aef43f0a3781a3ed0811_b.jpg" data-rawwidth="1567" data-rawheight="1184" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-93706d960c3f650c20c0365acc82f576_b.jpg" class="origin_image zh-lightbox-thumb" width="1567" data-original="https://pic3.zhimg.com/v2-996ed0354228aef43f0a3781a3ed0811_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1567'%20height='1184'&gt;&lt;/svg&gt;" data-rawwidth="1567" data-rawheight="1184" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-93706d960c3f650c20c0365acc82f576_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1567" data-original="https://pic3.zhimg.com/v2-996ed0354228aef43f0a3781a3ed0811_r.jpg" data-actualsrc="https://pic3.zhimg.com/50/v2-996ed0354228aef43f0a3781a3ed0811_b.jpg"></figure><h2>•<b>神秘声音</b></h2><p>电影中能听到神秘声音的有艾莎、火元素精灵Bruni以及艾莎的父亲艾格纳国王。</p><h2>•<b>阿伦黛尔国花</b></h2><p>阿伦黛尔的国花是番红花，是一种在白雪中也能盛开的花朵，象征着春天和重生。</p><figure data-size="normal"><noscript><img src="https://pic4.zhimg.com/50/v2-8082e2288025f40a54b07a8c7c4f513d_b.jpg" data-rawwidth="2167" data-rawheight="895" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-f8b7e99bafdb0f7ddc251f0fa167d094_b.jpg" class="origin_image zh-lightbox-thumb" width="2167" data-original="https://pic4.zhimg.com/v2-8082e2288025f40a54b07a8c7c4f513d_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='2167'%20height='895'&gt;&lt;/svg&gt;" data-rawwidth="2167" data-rawheight="895" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-f8b7e99bafdb0f7ddc251f0fa167d094_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="2167" data-original="https://pic4.zhimg.com/v2-8082e2288025f40a54b07a8c7c4f513d_r.jpg" data-actualsrc="https://pic4.zhimg.com/50/v2-8082e2288025f40a54b07a8c7c4f513d_b.jpg"></figure><p>国花出现在阿伦黛尔王国的国旗上、士兵的制服上......</p><figure data-size="normal"><noscript><img src="https://pic1.zhimg.com/50/v2-8f506032b308197c3df38a75b1eab894_b.jpg" data-rawwidth="1572" data-rawheight="911" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-4d67c0ad63966a265ed440a030d8a01c_b.jpg" class="origin_image zh-lightbox-thumb" width="1572" data-original="https://pic1.zhimg.com/v2-8f506032b308197c3df38a75b1eab894_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1572'%20height='911'&gt;&lt;/svg&gt;" data-rawwidth="1572" data-rawheight="911" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-4d67c0ad63966a265ed440a030d8a01c_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1572" data-original="https://pic1.zhimg.com/v2-8f506032b308197c3df38a75b1eab894_r.jpg" data-actualsrc="https://pic1.zhimg.com/50/v2-8f506032b308197c3df38a75b1eab894_b.jpg"></figure><h2>•<b>国王艾格纳的形象</b></h2><p>第一部上映的时候就有人说Elsa和Anna的父亲——艾格纳国王King Agnarr和迪士尼公司的创始人Walt Disney很相似，这样一看真的很相似。</p><figure data-size="normal"><noscript><img src="https://pic3.zhimg.com/50/v2-d32a6cd6de120392d4c373b9684d829c_b.jpg" data-rawwidth="1254" data-rawheight="785" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-9979427cf36202f450104f82c935a85f_b.jpg" class="origin_image zh-lightbox-thumb" width="1254" data-original="https://pic3.zhimg.com/v2-d32a6cd6de120392d4c373b9684d829c_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1254'%20height='785'&gt;&lt;/svg&gt;" data-rawwidth="1254" data-rawheight="785" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-9979427cf36202f450104f82c935a85f_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1254" data-original="https://pic3.zhimg.com/v2-d32a6cd6de120392d4c373b9684d829c_r.jpg" data-actualsrc="https://pic3.zhimg.com/50/v2-d32a6cd6de120392d4c373b9684d829c_b.jpg"></figure><h2>•<b>北欧文化</b></h2><p>都知道迪士尼的公主来自世界各地，中国的花木兰、苏丹的茉莉公主、南太平洋的莫阿娜、海底的小美人鱼等等。艾莎和安娜则是来自于北欧，因此冰雪2里面也充满了北欧神话的色彩，比如艾莎听到的神秘声音herding call是北欧畜牧人呼唤牛羊群的声音，比如元素精灵的原型来自当地的神话传说。</p><figure data-size="normal"><noscript><img src="https://pic4.zhimg.com/50/v2-d2e201666445757289d598b1bb0a2304_b.jpg" data-rawwidth="2438" data-rawheight="1887" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-5243a188357996e8b761fae23cc5ed3f_b.jpg" class="origin_image zh-lightbox-thumb" width="2438" data-original="https://pic4.zhimg.com/v2-d2e201666445757289d598b1bb0a2304_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='2438'%20height='1887'&gt;&lt;/svg&gt;" data-rawwidth="2438" data-rawheight="1887" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-5243a188357996e8b761fae23cc5ed3f_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="2438" data-original="https://pic4.zhimg.com/v2-d2e201666445757289d598b1bb0a2304_r.jpg" data-actualsrc="https://pic4.zhimg.com/50/v2-d2e201666445757289d598b1bb0a2304_b.jpg"></figure><h2>•<b>阿伦黛尔王国</b></h2><p>阿伦黛尔王国采风自挪威，童话王国的既视感。</p><figure data-size="normal"><noscript><img src="https://pic4.zhimg.com/50/v2-36daba13b9ebe2088f3148e6d8d933f3_b.jpg" data-rawwidth="1300" data-rawheight="1223" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-a0e5c9d69dfe141101842470ae3d208a_b.jpg" class="origin_image zh-lightbox-thumb" width="1300" data-original="https://pic4.zhimg.com/v2-36daba13b9ebe2088f3148e6d8d933f3_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1300'%20height='1223'&gt;&lt;/svg&gt;" data-rawwidth="1300" data-rawheight="1223" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-a0e5c9d69dfe141101842470ae3d208a_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1300" data-original="https://pic4.zhimg.com/v2-36daba13b9ebe2088f3148e6d8d933f3_r.jpg" data-actualsrc="https://pic4.zhimg.com/50/v2-36daba13b9ebe2088f3148e6d8d933f3_b.jpg"></figure><p>魔法森林的灵感则来自冰岛、芬兰等，艾莎挑战水元素精灵Nokk的黑沙滩和冰岛大名鼎鼎的黑沙滩简直如出一辙。</p><figure data-size="normal"><noscript><img src="https://pic2.zhimg.com/50/v2-6caf91918b409dc7fd1037bf65575ac6_b.jpg" data-rawwidth="1364" data-rawheight="1312" data-size="normal" data-caption="" data-default-watermark-src="https://pic2.zhimg.com/50/v2-0c1064c274a5dbae00277c75d6b28aed_b.jpg" class="origin_image zh-lightbox-thumb" width="1364" data-original="https://pic2.zhimg.com/v2-6caf91918b409dc7fd1037bf65575ac6_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1364'%20height='1312'&gt;&lt;/svg&gt;" data-rawwidth="1364" data-rawheight="1312" data-size="normal" data-caption="" data-default-watermark-src="https://pic2.zhimg.com/50/v2-0c1064c274a5dbae00277c75d6b28aed_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1364" data-original="https://pic2.zhimg.com/v2-6caf91918b409dc7fd1037bf65575ac6_r.jpg" data-actualsrc="https://pic2.zhimg.com/50/v2-6caf91918b409dc7fd1037bf65575ac6_b.jpg"></figure><h2>•<b>数字13</b></h2><p>数字13在西方是不详的数字，Elsa就是迪士尼的第13为公主，Elsa在最开始的设定是一位反派。Anna是第12为公主，Hans是第13为王子。</p><figure data-size="normal"><noscript><img src="https://pic2.zhimg.com/50/v2-5817a1a58c10a6ba548b44a790b84fd7_b.jpg" data-rawwidth="1245" data-rawheight="1038" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-6bcf8bd96f89632e8952e037125d3922_b.jpg" class="origin_image zh-lightbox-thumb" width="1245" data-original="https://pic2.zhimg.com/v2-5817a1a58c10a6ba548b44a790b84fd7_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1245'%20height='1038'&gt;&lt;/svg&gt;" data-rawwidth="1245" data-rawheight="1038" data-size="normal" data-caption="" data-default-watermark-src="https://pic3.zhimg.com/50/v2-6bcf8bd96f89632e8952e037125d3922_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1245" data-original="https://pic2.zhimg.com/v2-5817a1a58c10a6ba548b44a790b84fd7_r.jpg" data-actualsrc="https://pic2.zhimg.com/50/v2-5817a1a58c10a6ba548b44a790b84fd7_b.jpg"></figure><figure data-size="normal"><noscript><img src="https://pic3.zhimg.com/50/v2-a14808a53bea37fc1f0ebff3f8683283_b.jpg" data-rawwidth="1444" data-rawheight="476" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-9bf6a45f0fd2cbdacac19b2feee16aa0_b.jpg" class="origin_image zh-lightbox-thumb" width="1444" data-original="https://pic3.zhimg.com/v2-a14808a53bea37fc1f0ebff3f8683283_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1444'%20height='476'&gt;&lt;/svg&gt;" data-rawwidth="1444" data-rawheight="476" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-9bf6a45f0fd2cbdacac19b2feee16aa0_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1444" data-original="https://pic3.zhimg.com/v2-a14808a53bea37fc1f0ebff3f8683283_r.jpg" data-actualsrc="https://pic3.zhimg.com/50/v2-a14808a53bea37fc1f0ebff3f8683283_b.jpg"></figure><figure data-size="normal"><noscript><img src="https://pic4.zhimg.com/50/v2-a9faf8fd7db83d83a2eef17afd66e6d4_b.jpg" data-rawwidth="1014" data-rawheight="680" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-b9b5b9c671af28c7edf0516b7c6807b9_b.jpg" class="origin_image zh-lightbox-thumb" width="1014" data-original="https://pic4.zhimg.com/v2-a9faf8fd7db83d83a2eef17afd66e6d4_r.jpg"></noscript><img src="data:image/svg+xml;utf8,&lt;svg%20xmlns='http://www.w3.org/2000/svg'%20width='1014'%20height='680'&gt;&lt;/svg&gt;" data-rawwidth="1014" data-rawheight="680" data-size="normal" data-caption="" data-default-watermark-src="https://pic4.zhimg.com/50/v2-b9b5b9c671af28c7edf0516b7c6807b9_b.jpg" class="origin_image zh-lightbox-thumb lazy" width="1014" data-original="https://pic4.zhimg.com/v2-a9faf8fd7db83d83a2eef17afd66e6d4_r.jpg" data-actualsrc="https://pic4.zhimg.com/50/v2-a9faf8fd7db83d83a2eef17afd66e6d4_b.jpg"></figure><p></p>
