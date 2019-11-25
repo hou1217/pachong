@@ -12,9 +12,6 @@ new Promise((resolve,reject)=>{
 
     // 遍历回答
     Object.values(answers).forEach(answer => {
-      
-    // });
-    // for(let answer of answers){
       let moment = {}
       moment.version = 2
       moment.mid = String(answer.id)
