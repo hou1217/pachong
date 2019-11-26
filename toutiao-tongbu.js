@@ -36,14 +36,20 @@ new Promise((resolve,reject)=>{
           // 单视频
           else if(res.has_video){
             moment.items[0].body.newsLink.type = 'SINGLE_VIDEO'
+            moment.items[0].body.newsLink.video = {}
             moment.items[0].body.newsLink.video.cover = 'http:'+res.image_url
-            moment.items[0].body.newsLink.video.duration = res.video_duration_str
+            // 处理字符串duration
+            const durationArr = res.video_duration_str.split(":")
+            const minute =  durationArr[0] *60
+            const second = + durationArr[1]
+            const duration = minute + second
+            moment.items[0].body.newsLink.video.duration = duration
           }
           // 单图片
           else if(res.single_mode){
             moment.items[0].body.newsLink.type = 'SINGLE_IMAGE'
             moment.items[0].body.newsLink.images = [{}]
-            moment.items[0].body.newsLink.images[0].url = 'http:'+res.image_url
+            moment.items[0].body.newsLink.images[0].imageUrl = 'http:'+res.image_url
           }
           console.log('-----------当前的moment是：----------');
           console.log(moment);
