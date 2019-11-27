@@ -110,15 +110,17 @@ new Promise((resolve,reject)=>{
               moment.pics = parsePics(_moment);
 
             }else{
-              moment.text = parseText(_moment);
-              moment.protocol = 'weibo';
-              moment.forward.mid = moment.fmid;
-              moment.forward.uid = moment.fuid;
-              moment.forward.userSrc = "http://www.weibo.com/u/" + moment.fuid;
-              moment.forward.text = parseForwardText(_moment);
-              moment.forward.video = parseVideo(_moment);
-              moment.forward.pics = parsePics(_moment);
-              moment.forward.url = _moment.querySelector("[node-type='feed_list_forwardContent'] [node-type='feed_list_item_date']").href;    
+              // moment.text = parseText(_moment);
+              // moment.protocol = 'weibo';
+              moment.mid = moment.fmid;
+              moment.uid = moment.fuid;
+              // moment.userSrc = "http://www.weibo.com/u/" + moment.fuid;
+              moment.text = parseForwardText(_moment);
+              moment.video = parseVideo(_moment);
+              moment.pics = parsePics(_moment);
+              // moment.publishTime = _moment.querySelector("[node-type='feed_list_item_date']").getAttribute('date');
+              moment.url = 'https://m.weibo.cn/' + moment.uid + '/' + moment.mid;
+              // moment.url = _moment.querySelector("[node-type='feed_list_forwardContent'] [node-type='feed_list_item_date']").href;    
             }
 
             moments.push(moment); 

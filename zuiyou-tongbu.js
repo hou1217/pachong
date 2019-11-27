@@ -81,18 +81,20 @@ new Promise((resolve, reject) => {
     var ajax = new XMLHttpRequest();
     ajax.onreadystatechange = function(){
       if(ajax.readyState == 4 && ajax.status == 200){
-        var msg = ajax.responseText;
+        let msg = ajax.responseText;
         console.log(msg);
-        var list = JSON.parse(msg).data.list
-        var moments = []
-        for(var i in list){
-          var moment = {};
-          moment.mid = String(list[i].id)
-          moment.uid = list[i].member.id
-          moment.publishTime = list[i].ct*1000
-          moment.text = {content:list[i].content}
-          moment.video = parseVideo(list[i])
-          moment.pics = parsePics(list[i])
+        let list = JSON.parse(msg).data.list
+        let moments = []
+        for(let item of list){
+          let moment = {};
+          moment.mid = String(item.id)
+          moment.uid = item.member.id
+          moment.publishTime = item.ct*1000
+          if(item.content){
+            moment.text = {content:item.content}
+          }
+          moment.video = parseVideo(item)
+          moment.pics = parsePics(item)
           moments.push(moment); 
         }
         console.log(moments);
