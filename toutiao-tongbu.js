@@ -51,6 +51,16 @@ new Promise((resolve,reject)=>{
             moment.items[0].body.newsLink.images = [{}]
             moment.items[0].body.newsLink.images[0].imageUrl = 'http:'+res.image_url
           }
+          // 多图片
+          else if(res.more_mode){
+            moment.items[0].body.newsLink.type = 'TRIPLE_IMAGE'
+            moment.items[0].body.newsLink.images = []
+            res.image_list.forEach((item)=>{
+              moment.items[0].body.newsLink.images.push({
+                imageUrl:'http:'+item.image_url
+              })
+            })
+          }
           console.log('-----------当前的moment是：----------');
           console.log(moment);
           moments.push(moment); 
