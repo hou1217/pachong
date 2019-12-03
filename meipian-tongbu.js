@@ -9,12 +9,23 @@ new Promise((resolve,reject)=>{
           console.log('每个section的值：');
           console.log(res);
           let moment = {};
+          moment.version = 2
           moment.mid = res.article_id
           moment.uid = res.author_id
           moment.publishTime = res.create_time *1000
           moment.url = 'https://' +res.domain + '/' + res.article_id
-          moment.text={content:''}
-          moment.pics=[]
+          moment.items = [
+            {
+              type: "TEXT",
+              body: {
+                "text": {
+                  content:res.title
+                }
+              }
+            }
+          ]
+          // moment.text={content:''}
+          // moment.pics=[]
           console.log('-----------当前的moment是：----------');
           console.log(moment);
           // 创建一个iframe
@@ -34,17 +45,35 @@ new Promise((resolve,reject)=>{
             console.log(content);
             var sections = content.querySelectorAll(".section")
             for(let itemDom of sections){
-              var textDom = itemDom.querySelector(".text")
-              if(textDom){
-                var pDoms = textDom.querySelectorAll("p,h3")
+              if(itemDom.querySelector(".text")){
+                var pDoms = itemDom.querySelector(".text").querySelectorAll("p,h3")
                 for(let pDom of pDoms){
-                  moment.text.content += pDom.innerText
+                  if(pDom.textContent){
+                    moment.items.push(
+                      {
+                        type: "TEXT",
+                        body: {
+                          "text": {
+                            content:pDom.textContent
+                          }
+                        }
+                      }
+                    )
+                  }
                 }
               }
-              var imgDom = itemDom.querySelector(".img-box")
-              if(imgDom){
-                var imgSrc = imgDom.querySelector("img").src
-                moment.pics.push(imgSrc)
+              if(itemDom.querySelector(".img-box")){
+                // moment.pics.push(imgSrc)
+                moment.items.push(
+                  {
+                    type: "IMAGE",
+                    body: {
+                      "image": {
+                        "imageUrl": itemDom.querySelector(".img-box").querySelector("img").src 
+                      }
+                    }
+                  }
+                )
               }
             }
             moments.push(moment); 
