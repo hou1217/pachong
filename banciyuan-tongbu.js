@@ -12,8 +12,9 @@ new Promise((resolve,reject)=>{
         moment.uid = detail.uid
         moment.publishTime = detail.ctime *1000
         moment.url = 'https://bcy.net/item/detail/' + detail.item_id
-        moment.text={content:detail.plain}
-
+        if(detail.plain){
+          moment.text={content:detail.plain}
+        }
         moment.pics=detail.image_list.map(ele=>ele.path)
         moments.push(moment)
       });

@@ -57,7 +57,7 @@ new Promise((resolve,reject)=>{
             moment.items[0].body.newsLink.images = []
             res.image_list.forEach((item)=>{
               moment.items[0].body.newsLink.images.push({
-                imageUrl:'http:'+item.image_url
+                imageUrl:'https:'+item.url
               })
             })
           }
