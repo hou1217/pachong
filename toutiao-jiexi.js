@@ -1,8 +1,6 @@
 new Promise((resolve,reject)=>{
   try{
-    if(header){
-
-    
+    if(header ){
       var origin ={
         "uid": "",
         "name": "",
@@ -12,12 +10,14 @@ new Promise((resolve,reject)=>{
         "desc": "",
         "tagId": "",
         "url": "",
+        "mediaId": null
       }
       origin.uid = header.media_id
       origin.name = header.name
       origin.headId = 'https:'+header.avtar_img
       origin.bgId = 'https:'+header.bg_img
-      origin.url ='https://www.toutiao.com'+ header.home_url
+      origin.mediaId = userInfo?userInfo.mediaId:''
+      origin.url ='https://www.toutiao.com'+ header.home_url + '#mid=' + origin.mediaId
       // origin.fans = userInfo.page.tagInfo.follow_count
       // origin.desc =  userInfo.page.tagInfo.intro
       

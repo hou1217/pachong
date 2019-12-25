@@ -39,11 +39,13 @@ new Promise((resolve,reject)=>{
             moment.items[0].body.newsLink.video = {}
             moment.items[0].body.newsLink.video.cover = 'http:'+res.image_url
             // 处理字符串duration
-            const durationArr = res.video_duration_str.split(":")
-            const minute =  durationArr[0] *60
-            const second = + durationArr[1]
-            const duration = minute + second
-            moment.items[0].body.newsLink.video.duration = duration
+            if(res.video_duration_str){
+              const durationArr = res.video_duration_str.split(":")
+              const minute =  durationArr[0] *60
+              const second = + durationArr[1]
+              const duration = minute + second
+              moment.items[0].body.newsLink.video.duration = duration
+            }
           }
           // 单图片
           else if(res.single_mode){
